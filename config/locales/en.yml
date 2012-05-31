@@ -1,0 +1,36 @@
+en:
+  refinery:
+    plugins:
+      youtube_playlists:
+        title: Youtube Playlists
+    youtube_playlists:
+      admin:
+        youtube_playlists:
+          actions:
+            create_new: Add New Youtube Playlist
+            reorder: Reorder Youtube Playlists
+            reorder_done: Done Reordering Youtube Playlists
+          records:
+            title: Youtube Playlists
+            sorry_no_results: Sorry! There are no results found.
+            no_items_yet: There are no Youtube Playlists yet. Click "Add New Youtube Playlist" to add your first youtube playlist.
+          youtube_playlist:
+            view_live_html: View this youtube playlist live <br/><em>(opens in a new window)</em>
+            edit: Edit this youtube playlist
+            delete: Remove this youtube playlist forever
+        settings:
+          edit:
+            value: YouTube UserId
+            hint: You can retrieve the YouTube userId from settings in YouTube under the Advanced options. <a href="http://www.youtube.com/account_advanced">YouTube Account Settings</a>
+            example: For e.g., -9AyQ6YTpXQ9dto3U0QEww
+          update:
+            updated: 'YouTube UserId has been set to %{youtube_userid}'
+      youtube_playlists:
+        show:
+          other: Other Youtube Playlists
+  activerecord:
+    attributes:
+      'refinery/youtube_playlists/youtube_playlist':
+        title: Title
+        playlist_code: Playlist Code
+        description: Description

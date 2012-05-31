@@ -1,0 +1,35 @@
+<% content_for :body_content_title do %>
+  <%= @youtube_playlist.title %>
+<% end %>
+
+<% content_for :body_content_left do %>
+  <section style="width:640px;height:360px">
+    <iframe id="ytplayer" type="text/html" width="640" height="360" src="http://www.youtube.com/embed/?listType=playlist&list=PL<%= @youtube_playlist.playlist_code %>" frameborder="0" allowfullscreen>
+    </iframe>
+  </section>
+  <section>
+    <section>
+      <h1>Title</h1>
+      <p>
+        <%=raw @youtube_playlist.title %>
+      </p>
+    </section>
+    <section>
+      <h1>Description</h1>
+      <p>
+        <%=raw @youtube_playlist.description %>
+      </p>
+    </section>
+  </section>
+<% end %>
+
+<% content_for :body_content_right do %>
+  <aside>
+    <h2><%= t('.other') %></h2>
+    <ul id="youtube_playlists">
+      <%= render :partial => 'refinery/youtube_playlists/youtube_playlists/youtube_playlist', :collection => @youtube_playlists.active %>
+    </ul>
+  </aside>
+<% end %>
+
+<%= render '/refinery/content_page' %>

@@ -1,0 +1,24 @@
+<%= form_tag refinery.youtube_playlists_admin_setting_path, :method => :put do %>
+  <div class='field'>
+    <span class='label_with_help'>
+      <%= label_tag :youtube_userid, t('.value') %>
+    </span>
+    <%= text_field_tag :youtube_userid, @youtube_userid, :class => "larger widest" %>
+  </div>
+
+  <p>
+    <%= raw(t('.hint')) %>
+  </p>
+  <p>
+    <%= t('.example') %>
+  </p>
+
+  <%= render :partial => "/refinery/admin/form_actions",
+             :locals => {
+               :f => nil,
+               :continue_editing => false,
+               :cancel_url => refinery.youtube_playlists_admin_youtube_playlists_url,
+               :hide_delete => true
+             } %>
+<% end %>
+

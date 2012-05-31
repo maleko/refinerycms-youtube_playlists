@@ -1,0 +1,77 @@
+.folder_icon {
+  background-image: image_url('refinery/youtube_playlists/icons/folder.png');
+}
+.folder_add_icon {
+  background-image: image_url('refinery/youtube_playlists/icons/folder_add.png');
+}
+.folder_edit_icon {
+  background-image: image_url('refinery/youtube_playlists/icons/folder_edit.png');
+}
+.settings_icon {
+  background-image: image_url('refinery/youtube_playlists/icons/cog.png');
+}
+.page_icon {
+  background-image: image_url('refinery/youtube_playlists/icons/page.png');
+}
+.page_copy_icon {
+  background-image: image_url('refinery/youtube_playlists/icons/page_copy.png');
+}
+.page_add_icon {
+  background-image: image_url('refinery/youtube_playlists/icons/page_add.png');
+}
+.arrow_refresh_icon {
+  background-image: image_url('refinery/youtube_playlists/icons/arrow_refresh.png');
+}
+.arrow_switch_icon {
+  background-image: image_url('refinery/youtube_playlists/icons/arrow_switch.png');
+}
+.television_icon {
+  background-image: image_url('refinery/youtube_playlists/icons/television.png');
+}
+.accept_icon {
+  background-image: image_url('refinery/youtube_playlists/icons/accept.png');
+}
+.cancel_icon {
+  background-image: image_url('refinery/youtube_playlists/icons/cancel.png');
+}
+
+ul.collapsible_menu li {
+  position: relative;
+}
+ul.collapsible_menu li span.arrow {
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 10px;
+  top: 13px;
+  width: 11px;
+  height: 7px;
+  cursor: pointer;
+}
+ul.collapsible_menu li span.arrow {
+  background-image: image_url('refinery/youtube_playlists/icons/up.gif');
+}
+ul.collapsible_menu li.closed span.arrow {
+  background-image: image_url('refinery/youtube_playlists/icons/down.gif');
+}
+ul.collapsible_menu > div {
+  width: 93%;
+  margin: 0px auto;
+}
+ul.youtube_playlists_categories{
+  height:200px;
+  overflow:auto;
+  border:1px solid #ccc;
+  padding:5px;
+}
+ul.youtube_playlists_categories, ul.youtube_playlists_categories li {
+  list-style: none;
+  margin:5px 0;
+}
+a#copy_body_link {
+  background: image_url('refinery/youtube_playlists/icons/add.png') no-repeat scroll 0 6px transparent;
+  border-bottom: 0 none;
+  display: inline;
+  line-height: 29px;
+  margin-top: 0;
+  padding-left: 20px;
+}

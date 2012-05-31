@@ -1,0 +1,56 @@
+<nav id='actions' class='multilist'>
+  <% if ::Refinery::YoutubePlaylists::Admin::YoutubePlaylistsController.searchable? %>
+    <ul class='search_list'>
+      <li class='not_a_link'>
+        <%= render '/refinery/admin/search', :url => refinery.youtube_playlists_admin_youtube_playlists_path %>
+      </li>
+    </ul>
+  <% end %>
+
+  <ul class='collapsible_menu'>
+    <li>
+      <%= link_to t('.playlists.title'), '#',
+                   :class => 'television_icon' %>
+    </li>
+    <li>
+      <%= link_to t('.playlists.new'), refinery.new_youtube_playlists_admin_youtube_playlist_path, :class => "add_icon" %>
+    </li>
+    <li>
+      <%= link_to t('.playlists.refresh'), refinery.retrieve_playlist_youtube_playlists_admin_setting_path, :class => "arrow_refresh_icon" %>
+    </li>
+  </ul>
+
+  <ul class='collapsible_menu'>
+    <li class="not_a_link">
+      <%= link_to t('.settings.title'), refinery.youtube_playlists_admin_setting_path,
+                  :class => 'settings_icon' %>
+    </li>
+    <li>
+      <%= link_to t('.settings.update_userid'),
+                  refinery.edit_youtube_playlists_admin_setting_path(:dialog => true, :height => 400),
+                  :class => 'user_comment_icon' %>
+    </li>
+  </ul>
+
+  <ul>
+    <% if !searching? && @youtube_playlists.many? %>
+      <li class="not_a_link">
+        <%= link_to t('.reorder.initiate', :what => "YoutubePlaylists"),
+                     refinery.youtube_playlists_admin_youtube_playlists_path,
+                     :id => "reorder_action",
+                     :class => "reorder_icon" %>
+
+        <%= link_to t('.reorder.done', :what => "YoutubePlaylists"),
+                     refinery.youtube_playlists_admin_youtube_playlists_path,
+                     :id => "reorder_action_done",
+                     :style => "display: none;",
+                     :class => "reorder_icon" %>
+      </li>
+    <% end %>
+  </ul>
+
+
+</nav>
+
+<% content_for :stylesheets, stylesheet_link_tag('refinery/youtube_playlists/backend') %>
+

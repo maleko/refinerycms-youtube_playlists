@@ -1,0 +1,29 @@
+nl:
+  refinery:
+    plugins:
+      youtube_playlists:
+        title: Youtube Playlists
+    youtube_playlists:
+      admin:
+        youtube_playlists:
+          actions:
+            create_new: Maak een nieuwe Youtube Playlist
+            reorder: Wijzig de volgorde van de Youtube Playlists
+            reorder_done: Klaar met het wijzingen van de volgorde van de Youtube Playlists
+          records:
+            title: Youtube Playlists
+            sorry_no_results: Helaas! Er zijn geen resultaten gevonden.
+            no_items_yet: Er zijn nog geen Youtube Playlists. Druk op 'Maak een nieuwe Youtube Playlist' om de eerste aan te maken.
+          youtube_playlist:
+            view_live_html: Bekijk deze youtube playlist op de website <br/><em>(opent een nieuw venster)</em>
+            edit: Bewerk deze youtube playlist
+            delete: Verwijder deze youtube playlist voor eeuwig
+      youtube_playlists:
+        show:
+          other: Andere Youtube Playlists
+  activerecord:
+    attributes:
+      'refinery/youtube_playlists/youtube_playlist':
+        title: Title
+        playlist_code: Playlist Code
+        description: Description

@@ -1,0 +1,29 @@
+fr:
+  refinery:
+    plugins:
+      youtube_playlists:
+        title: Youtube Playlists
+    youtube_playlists:
+      admin:
+        youtube_playlists:
+          actions:
+            create_new: Créer un(e) nouve(au/l/lle) Youtube Playlist
+            reorder: Réordonner les Youtube Playlists
+            reorder_done: Fin de réordonnancement des Youtube Playlists
+          records:
+            title: Youtube Playlists
+            sorry_no_results: "Désolé ! Aucun résultat."
+            no_items_yet: 'Il n''y a actuellement aucun(e) Youtube Playlist. Cliquer sur "Créer un(e) nouve(au/l/lle) Youtube Playlist" pour créer votre premi(er/ère) youtube playlist.'
+          youtube_playlist:
+            view_live_html: Voir ce(t/tte) youtube playlist <br/><em>(Ouvre une nouvelle fenêtre)</em>
+            edit: Modifier ce(t/tte) youtube playlist
+            delete: Supprimer définitivement ce(t/tte) youtube playlist
+      youtube_playlists:
+        show:
+          other: Autres Youtube Playlists
+  activerecord:
+    attributes:
+      'refinery/youtube_playlists/youtube_playlist':
+        title: Title
+        playlist_code: Playlist Code
+        description: Description

@@ -1,0 +1,7 @@
+<% content_for :body_content_left do %>
+  <ul id="youtube_playlists">
+    <%= render :partial => 'refinery/youtube_playlists/youtube_playlists/youtube_playlist', :collection => @youtube_playlists.active %>
+  </ul>
+<% end %>
+
+<%= render '/refinery/content_page' %>

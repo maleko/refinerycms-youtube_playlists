@@ -1,0 +1,25 @@
+<ul>
+  <% if ::Refinery::YoutubePlaylists::Admin::YoutubePlaylistsController.searchable? %>
+    <li>
+      <%= render '/refinery/admin/search', :url => refinery.youtube_playlists_admin_youtube_playlists_path %>
+    </li>
+  <% end %>
+  <li>
+    <%= link_to t('.create_new'), refinery.new_youtube_playlists_admin_youtube_playlist_path,
+                 :class => "add_icon" %>
+  </li>
+<% if !searching? && ::Refinery::YoutubePlaylists::Admin::YoutubePlaylistsController.sortable? && ::Refinery::YoutubePlaylists::YoutubePlaylist.any? %>
+  <li>
+    <%= link_to t('.reorder', :what => "Youtube Playlists"),
+                 refinery.youtube_playlists_admin_youtube_playlists_path,
+                 :id => "reorder_action",
+                 :class => "reorder_icon" %>
+
+    <%= link_to t('.reorder_done', :what => "Youtube Playlists"),
+                 refinery.youtube_playlists_admin_youtube_playlists_path,
+                 :id => "reorder_action_done",
+                 :style => "display: none;",
+                 :class => "reorder_icon" %>
+  </li>
+<% end %>
+</ul>

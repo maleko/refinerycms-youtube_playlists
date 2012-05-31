@@ -1,0 +1,412 @@
+<!--https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists?v=2-->
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:media='http://search.yahoo.com/mrss/'
+      xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005'
+      xmlns:yt='http://gdata.youtube.com/schemas/2007' gd:etag='W/&quot;DUMNSHs-cSp7I2A9WhVUGU0.&quot;'>
+  <id>tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlists</id>
+  <updated>2012-05-25T00:58:19.559Z</updated>
+  <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#playlistLink'/>
+  <title>Playlists of user</title>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel='related' type='application/atom+xml'
+        href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2'/>
+  <link rel='alternate' type='text/html' href='https://www.youtube.com'/>
+  <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+        href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists?v=2'/>
+  <link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml'
+        href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/batch?v=2'/>
+  <link rel='self' type='application/atom+xml'
+        href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists?start-index=1&amp;max-results=25&amp;v=2'/>
+  <link rel='service' type='application/atomsvc+xml'
+        href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists?alt=atom-service&amp;v=2'/>
+  <author>
+    <name>PtDzl1nx3R5-voZFFe9msQ</name>
+    <uri>https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ</uri>
+    <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+  </author>
+  <generator version='2.1' uri='http://gdata.youtube.com'>YouTube data API</generator>
+  <openSearch:totalResults>9</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+  <entry gd:etag='W/&quot;A0UHSH47eCp7I2A9WhdWFUk.&quot;'>
+    <id>tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:155D01149BA63C32</id>
+    <published>2011-04-12T01:52:28.000Z</published>
+    <updated>2011-09-09T06:20:39.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#playlistLink'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='tv'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='factorysound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='pro'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='audio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='interviews'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='and'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='product'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='information'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='promo'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='clips'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='humour'/>
+    <title>2011 Interviews and Promos</title>
+    <summary>The whole lot from 2011 in one playlist. Here you'll find 'real' videos - ie interviews and in depth
+      discussion for products and issues relevant to Australian pro audio, lighting and anything else we feel is
+      relevant for stage, studio, broadcast and more; PLUS our collection of 'product promo clips' - usually lasting for
+      around 1min, they're a chance for us to let off some steam during the week.
+    </summary>
+    <content type='application/atom+xml;type=feed'
+             src='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32?v=2'/>
+    <link rel='related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2'/>
+    <link rel='alternate' type='text/html' href='https://www.youtube.com/view_play_list?p=155D01149BA63C32'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/155D01149BA63C32?v=2'/>
+    <author>
+      <name>PtDzl1nx3R5-voZFFe9msQ</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:countHint>29</yt:countHint>
+    <media:group>
+      <media:thumbnail url='http://i.ytimg.com/vi/kpYWiMSjHqU/default.jpg' height='90' width='120' yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/kpYWiMSjHqU/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/kpYWiMSjHqU/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <yt:duration seconds='4013'/>
+    </media:group>
+    <yt:playlistId>155D01149BA63C32</yt:playlistId>
+  </entry>
+  <entry gd:etag='W/&quot;DkcFQn47eCp7I2A9WhdSEko.&quot;'>
+    <id>tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:38AC9B7E4CD22522</id>
+    <published>2010-09-29T01:43:01.000Z</published>
+    <updated>2011-07-21T18:46:53.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#playlistLink'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='integrate'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='2010'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='exhibition'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='professional'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='audio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='trade'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='show'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='hordern'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='pavillino'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='sydney'/>
+    <title>Integrate 2010</title>
+    <summary>The best bits of footage we took from Integrate 2010 - held at Hordern Pavillion (Sydney) August 24-26,
+      2010.
+    </summary>
+    <content type='application/atom+xml;type=feed'
+             src='https://gdata.youtube.com/feeds/api/playlists/38AC9B7E4CD22522?v=2'/>
+    <link rel='related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2'/>
+    <link rel='alternate' type='text/html' href='https://www.youtube.com/view_play_list?p=38AC9B7E4CD22522'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/38AC9B7E4CD22522?v=2'/>
+    <author>
+      <name>PtDzl1nx3R5-voZFFe9msQ</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:countHint>8</yt:countHint>
+    <media:group>
+      <media:thumbnail url='http://i.ytimg.com/vi/wOkfeqB4icU/default.jpg' height='90' width='120' yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/wOkfeqB4icU/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/wOkfeqB4icU/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <yt:duration seconds='2286'/>
+    </media:group>
+    <yt:playlistId>38AC9B7E4CD22522</yt:playlistId>
+  </entry>
+  <entry gd:etag='W/&quot;A04CSX47eCp7I2A9WhZVFE4.&quot;'>
+    <id>tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:87F1A347B75277B4</id>
+    <published>2010-03-11T11:09:49.000Z</published>
+    <updated>2011-05-26T19:59:28.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#playlistLink'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='footy'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='tipping'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='$2010'/>
+    <title>Product Promos 2010</title>
+    <summary>Here's the whole collection of product promos we made during our $2010 Footy Tipping season. We had some
+      fun...
+    </summary>
+    <content type='application/atom+xml;type=feed'
+             src='https://gdata.youtube.com/feeds/api/playlists/87F1A347B75277B4?v=2'/>
+    <link rel='related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2'/>
+    <link rel='alternate' type='text/html' href='https://www.youtube.com/view_play_list?p=87F1A347B75277B4'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/87F1A347B75277B4?v=2'/>
+    <author>
+      <name>PtDzl1nx3R5-voZFFe9msQ</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:countHint>23</yt:countHint>
+    <media:group>
+      <media:thumbnail url='http://i.ytimg.com/vi/Cw6_dXT-hTM/default.jpg' height='90' width='120' yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/Cw6_dXT-hTM/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/Cw6_dXT-hTM/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <yt:duration seconds='1650'/>
+    </media:group>
+    <yt:playlistId>87F1A347B75277B4</yt:playlistId>
+  </entry>
+  <entry gd:etag='W/&quot;DkEHQn47eCp7I2A9WhZVFUU.&quot;'>
+    <id>tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:231AABA9EDD7D5D5</id>
+    <published>2010-02-13T05:22:30.000Z</published>
+    <updated>2011-05-28T12:10:33.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#playlistLink'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='TV'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='2010'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='season'/>
+    <title>2010 Factory Sound TV Episodes</title>
+    <summary>It's our 4th year of Factory Sound TV - and this one might just be the one that finally pulls it all
+      together.
+      But don't hold your breath... you know how we roll!
+    </summary>
+    <content type='application/atom+xml;type=feed'
+             src='https://gdata.youtube.com/feeds/api/playlists/231AABA9EDD7D5D5?v=2'/>
+    <link rel='related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2'/>
+    <link rel='alternate' type='text/html' href='https://www.youtube.com/view_play_list?p=231AABA9EDD7D5D5'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/231AABA9EDD7D5D5?v=2'/>
+    <author>
+      <name>PtDzl1nx3R5-voZFFe9msQ</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:countHint>3</yt:countHint>
+    <media:group>
+      <media:thumbnail url='http://i.ytimg.com/vi/aSMiZLW5bxc/default.jpg' height='90' width='120' yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/aSMiZLW5bxc/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/aSMiZLW5bxc/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <yt:duration seconds='670'/>
+    </media:group>
+    <yt:playlistId>231AABA9EDD7D5D5</yt:playlistId>
+  </entry>
+  <entry gd:etag='W/&quot;D0IDQH47eCp7I2A9WhdSEko.&quot;'>
+    <id>tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:FC3D107E71917228</id>
+    <published>2009-09-30T05:36:22.000Z</published>
+    <updated>2011-07-21T19:12:51.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#playlistLink'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='jim'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='odom'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='presonus'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='home'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='studio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='professional'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='recording'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='live'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='digital'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='mixer'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='mixing'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='console'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='StudioOne'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='StudioLive'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='software'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='digimax'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='firepod'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='firebox'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='firestudio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='lousisiana'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='sound'/>
+    <title>Presonus with Jim Odom</title>
+    <summary>The founder, president, brains and enthusiasm behind Presonus, Jim Odom, joins us for 3-part interview
+      series. Part 1 we get to know him, Part 2 he drops the StudioOne software release in our lap, and Part 3 he plays
+      tourguide for his baby, StudioLive digital mixing console. Jim is laid back on camera , and has an uncanny knack
+      of talking, and talking...
+    </summary>
+    <content type='application/atom+xml;type=feed'
+             src='https://gdata.youtube.com/feeds/api/playlists/FC3D107E71917228?v=2'/>
+    <link rel='related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2'/>
+    <link rel='alternate' type='text/html' href='https://www.youtube.com/view_play_list?p=FC3D107E71917228'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/FC3D107E71917228?v=2'/>
+    <author>
+      <name>PtDzl1nx3R5-voZFFe9msQ</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:countHint>3</yt:countHint>
+    <media:group>
+      <media:thumbnail url='http://i.ytimg.com/vi/6Be0yjN6CbQ/default.jpg' height='90' width='120' yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/6Be0yjN6CbQ/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/6Be0yjN6CbQ/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <yt:duration seconds='1020'/>
+    </media:group>
+    <yt:playlistId>FC3D107E71917228</yt:playlistId>
+  </entry>
+  <entry gd:etag='W/&quot;C0ADQH47eCp7I2A9WhZQFkk.&quot;'>
+    <id>tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:CCB0D171C4827B2C</id>
+    <published>2009-08-04T22:43:46.000Z</published>
+    <updated>2011-04-24T10:42:51.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#playlistLink'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='pro'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='audio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='fstv'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='tone'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='artie'/>
+    <title>FSTV Episodes</title>
+    <summary>The Official Factory Sound TV episodes. Some are informative, some are funny...all of them show a little
+      bit about Factory Sound, and the people we meet along the way.
+    </summary>
+    <content type='application/atom+xml;type=feed'
+             src='https://gdata.youtube.com/feeds/api/playlists/CCB0D171C4827B2C?v=2'/>
+    <link rel='related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2'/>
+    <link rel='alternate' type='text/html' href='https://www.youtube.com/view_play_list?p=CCB0D171C4827B2C'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/CCB0D171C4827B2C?v=2'/>
+    <author>
+      <name>PtDzl1nx3R5-voZFFe9msQ</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:countHint>28</yt:countHint>
+    <media:group>
+      <media:thumbnail url='http://i.ytimg.com/vi/V0lm1cnYMvk/default.jpg' height='90' width='120' yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/V0lm1cnYMvk/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/V0lm1cnYMvk/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <yt:duration seconds='17589'/>
+    </media:group>
+    <yt:playlistId>CCB0D171C4827B2C</yt:playlistId>
+  </entry>
+  <entry gd:etag='W/&quot;DE8ESX47eCp7I2A9Wx5bEEU.&quot;'>
+    <id>tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:0DDDE9B35588E158</id>
+    <published>2009-08-04T22:36:20.000Z</published>
+    <updated>2010-10-26T09:53:28.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#playlistLink'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='integrate'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='trade'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='show'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='pro'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='audio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='products'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='interviews'/>
+    <title>Integrate 09</title>
+    <summary>The best bits of Integrate 09.
+
+      We headed off to the inaugural Integrate expo, held at the Hordern Pavillion (Sydney) in July 2009. This was a
+      terrific opportunity to get around and check out all the newly-released bits of gear for a range of applications -
+      pro audio, lighting, audiovisual, installation.
+
+      It was also an excellent time to take a very large amount of video. We stayed in South Melbourne for day 1, so by
+      the time we finally hit the show, all exhibitors were on fire! Perfect for turning the camera on and letting them
+      go at it. Tone was also on fire, and we not only got to see lots of gear, but also meet a very interesting bunch
+      of characters. Along the way we discovered more about seemingly inevitable RF (wireless) concerns for Australia -
+      already happening in USA. And we also compared some 'street pricing' between Australia and rest-of-the-world.
+    </summary>
+    <content type='application/atom+xml;type=feed'
+             src='https://gdata.youtube.com/feeds/api/playlists/0DDDE9B35588E158?v=2'/>
+    <link rel='related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2'/>
+    <link rel='alternate' type='text/html' href='https://www.youtube.com/view_play_list?p=0DDDE9B35588E158'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/0DDDE9B35588E158?v=2'/>
+    <author>
+      <name>PtDzl1nx3R5-voZFFe9msQ</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:countHint>15</yt:countHint>
+    <media:group>
+      <media:thumbnail url='http://i.ytimg.com/vi/74UoLqzNFHY/default.jpg' height='90' width='120' yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/74UoLqzNFHY/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/74UoLqzNFHY/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <yt:duration seconds='8778'/>
+    </media:group>
+    <yt:playlistId>0DDDE9B35588E158</yt:playlistId>
+  </entry>
+  <entry gd:etag='W/&quot;A0cCSX47eCp7I2A9Wx9TE0k.&quot;'>
+    <id>tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:CBBC4AE8EB43BBC8</id>
+    <published>2009-03-24T00:38:21.000Z</published>
+    <updated>2010-11-21T14:17:48.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#playlistLink'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='footy'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='tipping'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='$2009'/>
+    <title>Footy Tipping $2009</title>
+    <summary>Footy Tipping $2009 - here's where you'll see all the little vids we've made during the season.</summary>
+    <content type='application/atom+xml;type=feed'
+             src='https://gdata.youtube.com/feeds/api/playlists/CBBC4AE8EB43BBC8?v=2'/>
+    <link rel='related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2'/>
+    <link rel='alternate' type='text/html' href='https://www.youtube.com/view_play_list?p=CBBC4AE8EB43BBC8'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/CBBC4AE8EB43BBC8?v=2'/>
+    <author>
+      <name>PtDzl1nx3R5-voZFFe9msQ</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:countHint>23</yt:countHint>
+    <media:group>
+      <media:thumbnail url='http://i.ytimg.com/vi/G61Xpj2mbG0/default.jpg' height='90' width='120' yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/G61Xpj2mbG0/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/G61Xpj2mbG0/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <yt:duration seconds='1489'/>
+    </media:group>
+    <yt:playlistId>CBBC4AE8EB43BBC8</yt:playlistId>
+  </entry>
+  <entry gd:etag='W/&quot;DkICRX47eCp7I2A9Wx5SF0k.&quot;'>
+    <id>tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:B094E23863A88062</id>
+    <published>2008-02-06T06:04:12.000Z</published>
+    <updated>2010-08-14T00:09:24.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#playlistLink'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='products'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='lighting'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='disco'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='effects'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='demo'/>
+    <title>Product Demos</title>
+    <summary>Sometimes only video can show you how a certain product will look. Here are some video demos of such
+      products.
+    </summary>
+    <content type='application/atom+xml;type=feed'
+             src='https://gdata.youtube.com/feeds/api/playlists/B094E23863A88062?v=2'/>
+    <link rel='related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2'/>
+    <link rel='alternate' type='text/html' href='https://www.youtube.com/view_play_list?p=B094E23863A88062'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/B094E23863A88062?v=2'/>
+    <author>
+      <name>PtDzl1nx3R5-voZFFe9msQ</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:countHint>8</yt:countHint>
+    <media:group>
+      <media:thumbnail url='http://i.ytimg.com/vi/BJPH7ooJOsY/default.jpg' height='90' width='120' yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/BJPH7ooJOsY/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/BJPH7ooJOsY/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <yt:duration seconds='437'/>
+    </media:group>
+    <yt:playlistId>B094E23863A88062</yt:playlistId>
+  </entry>
+</feed>

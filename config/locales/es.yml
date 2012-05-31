@@ -1,0 +1,30 @@
+es:
+  refinery:
+    plugins:
+      youtube_playlists:
+        title: Youtube Playlists
+#        article: masculino/femenino
+    youtube_playlists:
+      admin:
+        youtube_playlists:
+          actions:
+            create_new: Crear nuevo youtube playlist
+            reorder: Reordenar youtube playlists
+            reorder_done: Reordenación de youtube playlists completada
+          records:
+            title: Youtube Playlists
+            sorry_no_results: Lo siento, no hay resultados
+            no_items_yet: No hay youtube playlists todavía. Pulsa en "Crear nuevo Youtube Playlist" para crear tu primer youtube playlist.
+          youtube_playlist:
+            view_live_html: Ver este youtube playlist como abierto al público <br/><em>(abre en ventana nueva)</em>
+            edit: Editar este youtube playlist
+            delete: Borrar este youtube playlist para siempre
+      youtube_playlists:
+        show:
+          other: Otros youtube playlists
+  activerecord:
+    attributes:
+      'refinery/youtube_playlists/youtube_playlist':
+        title: Title
+        playlist_code: Playlist Code
+        description: Description

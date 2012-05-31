@@ -1,0 +1,758 @@
+// https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists?v=2&alt=json
+{ "encoding" : "UTF-8",
+  "feed" : { "author" : [ { "name" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" },
+            "uri" : { "$t" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ" },
+            "yt$userId" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" }
+          } ],
+      "category" : [ { "scheme" : "http://schemas.google.com/g/2005#kind",
+            "term" : "http://gdata.youtube.com/schemas/2007#playlistLink"
+          } ],
+      "entry" : [
+          { "author" : [ { "name" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" },
+                  "uri" : { "$t" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ" },
+                  "yt$userId" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" }
+                } ],
+            "category" : [ { "scheme" : "http://schemas.google.com/g/2005#kind",
+                  "term" : "http://gdata.youtube.com/schemas/2007#playlistLink"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "factory"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "sound"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "tv"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "factorysound"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "pro"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "audio"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "interviews"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "and"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "product"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "information"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "promo"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "clips"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "humour"
+                }
+              ],
+            "content" : { "src" : "https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32?v=2",
+                "type" : "application/atom+xml;type=feed"
+              },
+            "gd$etag" : "W/\"A0UHSH47eCp7I2A9WhdWFUk.\"",
+            "id" : { "$t" : "tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:155D01149BA63C32" },
+            "link" : [ { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2",
+                  "rel" : "related",
+                  "type" : "application/atom+xml"
+                },
+                { "href" : "https://www.youtube.com/view_play_list?p=155D01149BA63C32",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+                },
+                { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/155D01149BA63C32?v=2",
+                  "rel" : "self",
+                  "type" : "application/atom+xml"
+                }
+              ],
+            "media$group" : { "media$thumbnail" : [ { "height" : 90,
+                      "url" : "http://i.ytimg.com/vi/kpYWiMSjHqU/default.jpg",
+                      "width" : 120,
+                      "yt$name" : "default"
+                    },
+                    { "height" : 180,
+                      "url" : "http://i.ytimg.com/vi/kpYWiMSjHqU/mqdefault.jpg",
+                      "width" : 320,
+                      "yt$name" : "mqdefault"
+                    },
+                    { "height" : 360,
+                      "url" : "http://i.ytimg.com/vi/kpYWiMSjHqU/hqdefault.jpg",
+                      "width" : 480,
+                      "yt$name" : "hqdefault"
+                    }
+                  ],
+                "yt$duration" : { "seconds" : "4013" }
+              },
+            "published" : { "$t" : "2011-04-12T01:52:28.000Z" },
+            "summary" : { "$t" : "The whole lot from 2011 in one playlist. Here you'll find 'real' videos - ie interviews and in depth discussion for products and issues relevant to Australian pro audio, lighting and anything else we feel is relevant for stage, studio, broadcast and more; PLUS our collection of 'product promo clips' - usually lasting for around 1min, they're a chance for us to let off some steam during the week." },
+            "title" : { "$t" : "2011 Interviews and Promos" },
+            "updated" : { "$t" : "2011-09-09T06:20:39.000Z" },
+            "yt$countHint" : { "$t" : 29 },
+            "yt$playlistId" : { "$t" : "155D01149BA63C32" }
+          },
+          { "author" : [ { "name" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" },
+                  "uri" : { "$t" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ" },
+                  "yt$userId" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" }
+                } ],
+            "category" : [ { "scheme" : "http://schemas.google.com/g/2005#kind",
+                  "term" : "http://gdata.youtube.com/schemas/2007#playlistLink"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "factory"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "sound"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "integrate"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "2010"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "exhibition"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "professional"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "audio"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "trade"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "show"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "hordern"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "pavillino"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "sydney"
+                }
+              ],
+            "content" : { "src" : "https://gdata.youtube.com/feeds/api/playlists/38AC9B7E4CD22522?v=2",
+                "type" : "application/atom+xml;type=feed"
+              },
+            "gd$etag" : "W/\"DkcFQn47eCp7I2A9WhdSEko.\"",
+            "id" : { "$t" : "tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:38AC9B7E4CD22522" },
+            "link" : [ { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2",
+                  "rel" : "related",
+                  "type" : "application/atom+xml"
+                },
+                { "href" : "https://www.youtube.com/view_play_list?p=38AC9B7E4CD22522",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+                },
+                { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/38AC9B7E4CD22522?v=2",
+                  "rel" : "self",
+                  "type" : "application/atom+xml"
+                }
+              ],
+            "media$group" : { "media$thumbnail" : [ { "height" : 90,
+                      "url" : "http://i.ytimg.com/vi/wOkfeqB4icU/default.jpg",
+                      "width" : 120,
+                      "yt$name" : "default"
+                    },
+                    { "height" : 180,
+                      "url" : "http://i.ytimg.com/vi/wOkfeqB4icU/mqdefault.jpg",
+                      "width" : 320,
+                      "yt$name" : "mqdefault"
+                    },
+                    { "height" : 360,
+                      "url" : "http://i.ytimg.com/vi/wOkfeqB4icU/hqdefault.jpg",
+                      "width" : 480,
+                      "yt$name" : "hqdefault"
+                    }
+                  ],
+                "yt$duration" : { "seconds" : "2286" }
+              },
+            "published" : { "$t" : "2010-09-29T01:43:01.000Z" },
+            "summary" : { "$t" : "The best bits of footage we took from Integrate 2010 - held at Hordern Pavillion (Sydney) August 24-26, 2010." },
+            "title" : { "$t" : "Integrate 2010" },
+            "updated" : { "$t" : "2011-07-21T18:46:53.000Z" },
+            "yt$countHint" : { "$t" : 8 },
+            "yt$playlistId" : { "$t" : "38AC9B7E4CD22522" }
+          },
+          { "author" : [ { "name" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" },
+                  "uri" : { "$t" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ" },
+                  "yt$userId" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" }
+                } ],
+            "category" : [ { "scheme" : "http://schemas.google.com/g/2005#kind",
+                  "term" : "http://gdata.youtube.com/schemas/2007#playlistLink"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "factory"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "sound"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "footy"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "tipping"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "$2010"
+                }
+              ],
+            "content" : { "src" : "https://gdata.youtube.com/feeds/api/playlists/87F1A347B75277B4?v=2",
+                "type" : "application/atom+xml;type=feed"
+              },
+            "gd$etag" : "W/\"A04CSX47eCp7I2A9WhZVFE4.\"",
+            "id" : { "$t" : "tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:87F1A347B75277B4" },
+            "link" : [ { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2",
+                  "rel" : "related",
+                  "type" : "application/atom+xml"
+                },
+                { "href" : "https://www.youtube.com/view_play_list?p=87F1A347B75277B4",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+                },
+                { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/87F1A347B75277B4?v=2",
+                  "rel" : "self",
+                  "type" : "application/atom+xml"
+                }
+              ],
+            "media$group" : { "media$thumbnail" : [ { "height" : 90,
+                      "url" : "http://i.ytimg.com/vi/Cw6_dXT-hTM/default.jpg",
+                      "width" : 120,
+                      "yt$name" : "default"
+                    },
+                    { "height" : 180,
+                      "url" : "http://i.ytimg.com/vi/Cw6_dXT-hTM/mqdefault.jpg",
+                      "width" : 320,
+                      "yt$name" : "mqdefault"
+                    },
+                    { "height" : 360,
+                      "url" : "http://i.ytimg.com/vi/Cw6_dXT-hTM/hqdefault.jpg",
+                      "width" : 480,
+                      "yt$name" : "hqdefault"
+                    }
+                  ],
+                "yt$duration" : { "seconds" : "1650" }
+              },
+            "published" : { "$t" : "2010-03-11T11:09:49.000Z" },
+            "summary" : { "$t" : "Here's the whole collection of product promos we made during our $2010 Footy Tipping season. We had some fun..." },
+            "title" : { "$t" : "Product Promos 2010" },
+            "updated" : { "$t" : "2011-05-26T19:59:28.000Z" },
+            "yt$countHint" : { "$t" : 23 },
+            "yt$playlistId" : { "$t" : "87F1A347B75277B4" }
+          },
+          { "author" : [ { "name" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" },
+                  "uri" : { "$t" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ" },
+                  "yt$userId" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" }
+                } ],
+            "category" : [ { "scheme" : "http://schemas.google.com/g/2005#kind",
+                  "term" : "http://gdata.youtube.com/schemas/2007#playlistLink"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "factory"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "sound"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "TV"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "2010"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "season"
+                }
+              ],
+            "content" : { "src" : "https://gdata.youtube.com/feeds/api/playlists/231AABA9EDD7D5D5?v=2",
+                "type" : "application/atom+xml;type=feed"
+              },
+            "gd$etag" : "W/\"DkEHQn47eCp7I2A9WhZVFUU.\"",
+            "id" : { "$t" : "tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:231AABA9EDD7D5D5" },
+            "link" : [ { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2",
+                  "rel" : "related",
+                  "type" : "application/atom+xml"
+                },
+                { "href" : "https://www.youtube.com/view_play_list?p=231AABA9EDD7D5D5",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+                },
+                { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/231AABA9EDD7D5D5?v=2",
+                  "rel" : "self",
+                  "type" : "application/atom+xml"
+                }
+              ],
+            "media$group" : { "media$thumbnail" : [ { "height" : 90,
+                      "url" : "http://i.ytimg.com/vi/aSMiZLW5bxc/default.jpg",
+                      "width" : 120,
+                      "yt$name" : "default"
+                    },
+                    { "height" : 180,
+                      "url" : "http://i.ytimg.com/vi/aSMiZLW5bxc/mqdefault.jpg",
+                      "width" : 320,
+                      "yt$name" : "mqdefault"
+                    },
+                    { "height" : 360,
+                      "url" : "http://i.ytimg.com/vi/aSMiZLW5bxc/hqdefault.jpg",
+                      "width" : 480,
+                      "yt$name" : "hqdefault"
+                    }
+                  ],
+                "yt$duration" : { "seconds" : "670" }
+              },
+            "published" : { "$t" : "2010-02-13T05:22:30.000Z" },
+            "summary" : { "$t" : "It's our 4th year of Factory Sound TV - and this one might just be the one that finally pulls it all together. \nBut don't hold your breath... you know how we roll!" },
+            "title" : { "$t" : "2010 Factory Sound TV Episodes" },
+            "updated" : { "$t" : "2011-05-28T12:10:33.000Z" },
+            "yt$countHint" : { "$t" : 3 },
+            "yt$playlistId" : { "$t" : "231AABA9EDD7D5D5" }
+          },
+          { "author" : [ { "name" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" },
+                  "uri" : { "$t" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ" },
+                  "yt$userId" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" }
+                } ],
+            "category" : [ { "scheme" : "http://schemas.google.com/g/2005#kind",
+                  "term" : "http://gdata.youtube.com/schemas/2007#playlistLink"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "jim"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "odom"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "presonus"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "home"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "studio"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "professional"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "recording"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "live"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "digital"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "mixer"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "mixing"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "console"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "StudioOne"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "StudioLive"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "software"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "digimax"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "firepod"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "firebox"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "firestudio"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "lousisiana"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "factory"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "sound"
+                }
+              ],
+            "content" : { "src" : "https://gdata.youtube.com/feeds/api/playlists/FC3D107E71917228?v=2",
+                "type" : "application/atom+xml;type=feed"
+              },
+            "gd$etag" : "W/\"D0IDQH47eCp7I2A9WhdSEko.\"",
+            "id" : { "$t" : "tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:FC3D107E71917228" },
+            "link" : [ { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2",
+                  "rel" : "related",
+                  "type" : "application/atom+xml"
+                },
+                { "href" : "https://www.youtube.com/view_play_list?p=FC3D107E71917228",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+                },
+                { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/FC3D107E71917228?v=2",
+                  "rel" : "self",
+                  "type" : "application/atom+xml"
+                }
+              ],
+            "media$group" : { "media$thumbnail" : [ { "height" : 90,
+                      "url" : "http://i.ytimg.com/vi/6Be0yjN6CbQ/default.jpg",
+                      "width" : 120,
+                      "yt$name" : "default"
+                    },
+                    { "height" : 180,
+                      "url" : "http://i.ytimg.com/vi/6Be0yjN6CbQ/mqdefault.jpg",
+                      "width" : 320,
+                      "yt$name" : "mqdefault"
+                    },
+                    { "height" : 360,
+                      "url" : "http://i.ytimg.com/vi/6Be0yjN6CbQ/hqdefault.jpg",
+                      "width" : 480,
+                      "yt$name" : "hqdefault"
+                    }
+                  ],
+                "yt$duration" : { "seconds" : "1020" }
+              },
+            "published" : { "$t" : "2009-09-30T05:36:22.000Z" },
+            "summary" : { "$t" : "The founder, president, brains and enthusiasm behind Presonus, Jim Odom, joins us for 3-part interview series. Part 1 we get to know him, Part 2 he drops the StudioOne software release in our lap, and Part 3 he plays tourguide for his baby, StudioLive digital mixing console. Jim is laid back on camera , and has an uncanny knack of talking, and talking..." },
+            "title" : { "$t" : "Presonus with Jim Odom" },
+            "updated" : { "$t" : "2011-07-21T19:12:51.000Z" },
+            "yt$countHint" : { "$t" : 3 },
+            "yt$playlistId" : { "$t" : "FC3D107E71917228" }
+          },
+          { "author" : [ { "name" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" },
+                  "uri" : { "$t" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ" },
+                  "yt$userId" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" }
+                } ],
+            "category" : [ { "scheme" : "http://schemas.google.com/g/2005#kind",
+                  "term" : "http://gdata.youtube.com/schemas/2007#playlistLink"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "pro"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "audio"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "factory"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "sound"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "fstv"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "tone"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "artie"
+                }
+              ],
+            "content" : { "src" : "https://gdata.youtube.com/feeds/api/playlists/CCB0D171C4827B2C?v=2",
+                "type" : "application/atom+xml;type=feed"
+              },
+            "gd$etag" : "W/\"C0ADQH47eCp7I2A9WhZQFkk.\"",
+            "id" : { "$t" : "tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:CCB0D171C4827B2C" },
+            "link" : [ { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2",
+                  "rel" : "related",
+                  "type" : "application/atom+xml"
+                },
+                { "href" : "https://www.youtube.com/view_play_list?p=CCB0D171C4827B2C",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+                },
+                { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/CCB0D171C4827B2C?v=2",
+                  "rel" : "self",
+                  "type" : "application/atom+xml"
+                }
+              ],
+            "media$group" : { "media$thumbnail" : [ { "height" : 90,
+                      "url" : "http://i.ytimg.com/vi/V0lm1cnYMvk/default.jpg",
+                      "width" : 120,
+                      "yt$name" : "default"
+                    },
+                    { "height" : 180,
+                      "url" : "http://i.ytimg.com/vi/V0lm1cnYMvk/mqdefault.jpg",
+                      "width" : 320,
+                      "yt$name" : "mqdefault"
+                    },
+                    { "height" : 360,
+                      "url" : "http://i.ytimg.com/vi/V0lm1cnYMvk/hqdefault.jpg",
+                      "width" : 480,
+                      "yt$name" : "hqdefault"
+                    }
+                  ],
+                "yt$duration" : { "seconds" : "17589" }
+              },
+            "published" : { "$t" : "2009-08-04T22:43:46.000Z" },
+            "summary" : { "$t" : "The Official Factory Sound TV episodes. Some are informative, some are funny...all of them show a little bit about Factory Sound, and the people we meet along the way." },
+            "title" : { "$t" : "FSTV Episodes" },
+            "updated" : { "$t" : "2011-04-24T10:42:51.000Z" },
+            "yt$countHint" : { "$t" : 28 },
+            "yt$playlistId" : { "$t" : "CCB0D171C4827B2C" }
+          },
+          { "author" : [ { "name" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" },
+                  "uri" : { "$t" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ" },
+                  "yt$userId" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" }
+                } ],
+            "category" : [ { "scheme" : "http://schemas.google.com/g/2005#kind",
+                  "term" : "http://gdata.youtube.com/schemas/2007#playlistLink"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "integrate"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "trade"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "show"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "pro"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "audio"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "products"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "interviews"
+                }
+              ],
+            "content" : { "src" : "https://gdata.youtube.com/feeds/api/playlists/0DDDE9B35588E158?v=2",
+                "type" : "application/atom+xml;type=feed"
+              },
+            "gd$etag" : "W/\"DE8ESX47eCp7I2A9Wx5bEEU.\"",
+            "id" : { "$t" : "tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:0DDDE9B35588E158" },
+            "link" : [ { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2",
+                  "rel" : "related",
+                  "type" : "application/atom+xml"
+                },
+                { "href" : "https://www.youtube.com/view_play_list?p=0DDDE9B35588E158",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+                },
+                { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/0DDDE9B35588E158?v=2",
+                  "rel" : "self",
+                  "type" : "application/atom+xml"
+                }
+              ],
+            "media$group" : { "media$thumbnail" : [ { "height" : 90,
+                      "url" : "http://i.ytimg.com/vi/74UoLqzNFHY/default.jpg",
+                      "width" : 120,
+                      "yt$name" : "default"
+                    },
+                    { "height" : 180,
+                      "url" : "http://i.ytimg.com/vi/74UoLqzNFHY/mqdefault.jpg",
+                      "width" : 320,
+                      "yt$name" : "mqdefault"
+                    },
+                    { "height" : 360,
+                      "url" : "http://i.ytimg.com/vi/74UoLqzNFHY/hqdefault.jpg",
+                      "width" : 480,
+                      "yt$name" : "hqdefault"
+                    }
+                  ],
+                "yt$duration" : { "seconds" : "8778" }
+              },
+            "published" : { "$t" : "2009-08-04T22:36:20.000Z" },
+            "summary" : { "$t" : "The best bits of Integrate 09. \n\nWe headed off to the inaugural Integrate expo, held at the Hordern Pavillion (Sydney) in July 2009. This was a terrific opportunity to get around and check out all the newly-released bits of gear for a range of applications - pro audio, lighting, audiovisual, installation.\n\nIt was also an excellent time to take a very large amount of video. We stayed in South Melbourne for day 1, so by the time we finally hit the show, all exhibitors were on fire! Perfect for turning the camera on and letting them go at it. Tone was also on fire, and we not only got to see lots of gear, but also meet a very interesting bunch of characters. Along the way we discovered more about seemingly inevitable RF (wireless) concerns for Australia - already happening in USA. And we also compared some 'street pricing' between Australia and rest-of-the-world." },
+            "title" : { "$t" : "Integrate 09" },
+            "updated" : { "$t" : "2010-10-26T09:53:28.000Z" },
+            "yt$countHint" : { "$t" : 15 },
+            "yt$playlistId" : { "$t" : "0DDDE9B35588E158" }
+          },
+          { "author" : [ { "name" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" },
+                  "uri" : { "$t" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ" },
+                  "yt$userId" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" }
+                } ],
+            "category" : [ { "scheme" : "http://schemas.google.com/g/2005#kind",
+                  "term" : "http://gdata.youtube.com/schemas/2007#playlistLink"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "factory"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "sound"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "footy"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "tipping"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "$2009"
+                }
+              ],
+            "content" : { "src" : "https://gdata.youtube.com/feeds/api/playlists/CBBC4AE8EB43BBC8?v=2",
+                "type" : "application/atom+xml;type=feed"
+              },
+            "gd$etag" : "W/\"A0cCSX47eCp7I2A9Wx9TE0k.\"",
+            "id" : { "$t" : "tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:CBBC4AE8EB43BBC8" },
+            "link" : [ { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2",
+                  "rel" : "related",
+                  "type" : "application/atom+xml"
+                },
+                { "href" : "https://www.youtube.com/view_play_list?p=CBBC4AE8EB43BBC8",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+                },
+                { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/CBBC4AE8EB43BBC8?v=2",
+                  "rel" : "self",
+                  "type" : "application/atom+xml"
+                }
+              ],
+            "media$group" : { "media$thumbnail" : [ { "height" : 90,
+                      "url" : "http://i.ytimg.com/vi/G61Xpj2mbG0/default.jpg",
+                      "width" : 120,
+                      "yt$name" : "default"
+                    },
+                    { "height" : 180,
+                      "url" : "http://i.ytimg.com/vi/G61Xpj2mbG0/mqdefault.jpg",
+                      "width" : 320,
+                      "yt$name" : "mqdefault"
+                    },
+                    { "height" : 360,
+                      "url" : "http://i.ytimg.com/vi/G61Xpj2mbG0/hqdefault.jpg",
+                      "width" : 480,
+                      "yt$name" : "hqdefault"
+                    }
+                  ],
+                "yt$duration" : { "seconds" : "1489" }
+              },
+            "published" : { "$t" : "2009-03-24T00:38:21.000Z" },
+            "summary" : { "$t" : "Footy Tipping $2009 - here's where you'll see all the little vids we've made during the season." },
+            "title" : { "$t" : "Footy Tipping $2009" },
+            "updated" : { "$t" : "2010-11-21T14:17:48.000Z" },
+            "yt$countHint" : { "$t" : 23 },
+            "yt$playlistId" : { "$t" : "CBBC4AE8EB43BBC8" }
+          },
+          { "author" : [ { "name" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" },
+                  "uri" : { "$t" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ" },
+                  "yt$userId" : { "$t" : "PtDzl1nx3R5-voZFFe9msQ" }
+                } ],
+            "category" : [ { "scheme" : "http://schemas.google.com/g/2005#kind",
+                  "term" : "http://gdata.youtube.com/schemas/2007#playlistLink"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "products"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "lighting"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "disco"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "effects"
+                },
+                { "scheme" : "http://gdata.youtube.com/schemas/2007/tags.cat",
+                  "term" : "demo"
+                }
+              ],
+            "content" : { "src" : "https://gdata.youtube.com/feeds/api/playlists/B094E23863A88062?v=2",
+                "type" : "application/atom+xml;type=feed"
+              },
+            "gd$etag" : "W/\"DkICRX47eCp7I2A9Wx5SF0k.\"",
+            "id" : { "$t" : "tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlist:B094E23863A88062" },
+            "link" : [ { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2",
+                  "rel" : "related",
+                  "type" : "application/atom+xml"
+                },
+                { "href" : "https://www.youtube.com/view_play_list?p=B094E23863A88062",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+                },
+                { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/B094E23863A88062?v=2",
+                  "rel" : "self",
+                  "type" : "application/atom+xml"
+                }
+              ],
+            "media$group" : { "media$thumbnail" : [ { "height" : 90,
+                      "url" : "http://i.ytimg.com/vi/BJPH7ooJOsY/default.jpg",
+                      "width" : 120,
+                      "yt$name" : "default"
+                    },
+                    { "height" : 180,
+                      "url" : "http://i.ytimg.com/vi/BJPH7ooJOsY/mqdefault.jpg",
+                      "width" : 320,
+                      "yt$name" : "mqdefault"
+                    },
+                    { "height" : 360,
+                      "url" : "http://i.ytimg.com/vi/BJPH7ooJOsY/hqdefault.jpg",
+                      "width" : 480,
+                      "yt$name" : "hqdefault"
+                    }
+                  ],
+                "yt$duration" : { "seconds" : "437" }
+              },
+            "published" : { "$t" : "2008-02-06T06:04:12.000Z" },
+            "summary" : { "$t" : "Sometimes only video can show you how a certain product will look. Here are some video demos of such products." },
+            "title" : { "$t" : "Product Demos" },
+            "updated" : { "$t" : "2010-08-14T00:09:24.000Z" },
+            "yt$countHint" : { "$t" : 8 },
+            "yt$playlistId" : { "$t" : "B094E23863A88062" }
+          }
+        ],
+      "gd$etag" : "W/\"DU8MSH4-eCp7I2A9WhVUGU0.\"",
+      "generator" : { "$t" : "YouTube data API",
+          "uri" : "http://gdata.youtube.com",
+          "version" : "2.1"
+        },
+      "id" : { "$t" : "tag:youtube.com,2008:user:PtDzl1nx3R5-voZFFe9msQ:playlists" },
+      "link" : [ { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ?v=2",
+            "rel" : "related",
+            "type" : "application/atom+xml"
+          },
+          { "href" : "https://www.youtube.com",
+            "rel" : "alternate",
+            "type" : "text/html"
+          },
+          { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists?v=2",
+            "rel" : "http://schemas.google.com/g/2005#feed",
+            "type" : "application/atom+xml"
+          },
+          { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists/batch?v=2",
+            "rel" : "http://schemas.google.com/g/2005#batch",
+            "type" : "application/atom+xml"
+          },
+          { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists?alt=json&start-index=1&max-results=25&v=2",
+            "rel" : "self",
+            "type" : "application/atom+xml"
+          },
+          { "href" : "https://gdata.youtube.com/feeds/api/users/PtDzl1nx3R5-voZFFe9msQ/playlists?alt=atom-service&v=2",
+            "rel" : "service",
+            "type" : "application/atomsvc+xml"
+          }
+        ],
+      "logo" : { "$t" : "http://www.youtube.com/img/pic_youtubelogo_123x63.gif" },
+      "openSearch$itemsPerPage" : { "$t" : 25 },
+      "openSearch$startIndex" : { "$t" : 1 },
+      "openSearch$totalResults" : { "$t" : 9 },
+      "title" : { "$t" : "Playlists of user" },
+      "updated" : { "$t" : "2012-05-25T01:04:49.050Z" },
+      "xmlns" : "http://www.w3.org/2005/Atom",
+      "xmlns$gd" : "http://schemas.google.com/g/2005",
+      "xmlns$media" : "http://search.yahoo.com/mrss/",
+      "xmlns$openSearch" : "http://a9.com/-/spec/opensearch/1.1/",
+      "xmlns$yt" : "http://gdata.youtube.com/schemas/2007"
+    },
+  "version" : "1.0"
+}

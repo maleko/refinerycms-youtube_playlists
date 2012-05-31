@@ -1,0 +1,10 @@
+<section id='records'>
+  <%= render 'records' %>
+</section>
+<aside id='submenu'>
+  <%= render '/refinery/youtube_playlists/admin/submenu' %>
+</aside>
+<%= render '/refinery/admin/make_sortable', :tree => false if !searching? and ::Refinery::YoutubePlaylists::Admin::YoutubePlaylistsController.sortable? and ::Refinery::YoutubePlaylists::YoutubePlaylist.count > 1 %>
+
+<% content_for :javascripts, javascript_include_tag('refinery/youtube_playlists/admin/youtube_playlists') %>
+

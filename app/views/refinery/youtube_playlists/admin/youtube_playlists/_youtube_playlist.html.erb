@@ -1,0 +1,21 @@
+<li class='clearfix record <%= cycle("on", "on-hover") %>' id="<%= dom_id(youtube_playlist) -%>">
+  <span class='title'>
+    <%= youtube_playlist.title %>
+
+  </span>
+  <span class='actions'>
+    <%= render :partial => 'refinery/youtube_playlists/admin/youtube_playlists/activation_links', :locals => {:youtube_playlist => youtube_playlist} %>
+
+    <%= link_to refinery_icon_tag("application_go.png"), refinery.youtube_playlists_youtube_playlist_path(youtube_playlist),
+        :title => t('.view_live_html'),
+        :target => "_blank" %>
+
+    <%= link_to refinery_icon_tag("application_edit.png"), refinery.edit_youtube_playlists_admin_youtube_playlist_path(youtube_playlist),
+         :title => t('.edit') %>
+    <%= link_to refinery_icon_tag("delete.png"), refinery.youtube_playlists_admin_youtube_playlist_path(youtube_playlist),
+        :class => "cancel confirm-delete",
+        :title => t('.delete'),
+        :confirm => t('message', :scope => 'refinery.admin.delete', :title => youtube_playlist.title),
+        :method => :delete %>
+  </span>
+</li>

@@ -1,0 +1,2694 @@
+<!--https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32?v=2-->
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:media='http://search.yahoo.com/mrss/'
+      xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005'
+      xmlns:yt='http://gdata.youtube.com/schemas/2007' gd:etag='W/&quot;A0UHSH47eCp7I2A9WhdWFUk.&quot;'>
+  <id>tag:youtube.com,2008:playlist:155D01149BA63C32</id>
+  <updated>2011-09-09T06:20:39.000Z</updated>
+  <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#playlist'/>
+  <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='factory'/>
+  <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='sound'/>
+  <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='tv'/>
+  <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='factorysound'/>
+  <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='pro'/>
+  <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='audio'/>
+  <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='interviews'/>
+  <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='and'/>
+  <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='product'/>
+  <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='information'/>
+  <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='promo'/>
+  <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='clips'/>
+  <category scheme='http://gdata.youtube.com/schemas/2007/tags.cat' term='humour'/>
+  <title>2011 Interviews and Promos</title>
+  <subtitle>The whole lot from 2011 in one playlist. Here you'll find 'real' videos - ie interviews and in depth
+    discussion for products and issues relevant to Australian pro audio, lighting and anything else we feel is relevant
+    for stage, studio, broadcast and more; PLUS our collection of 'product promo clips' - usually lasting for around
+    1min, they're a chance for us to let off some steam during the week.
+  </subtitle>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel='alternate' type='text/html' href='https://www.youtube.com/view_play_list?p=155D01149BA63C32'/>
+  <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+        href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32?v=2'/>
+  <link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml'
+        href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/batch?v=2'/>
+  <link rel='self' type='application/atom+xml'
+        href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32?start-index=1&amp;max-results=25&amp;v=2'/>
+  <link rel='service' type='application/atomsvc+xml'
+        href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32?alt=atom-service&amp;v=2'/>
+  <link rel='next' type='application/atom+xml'
+        href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32?start-index=26&amp;max-results=25&amp;v=2'/>
+  <author>
+    <name>FactorySound</name>
+    <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+    <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+  </author>
+  <generator version='2.1' uri='http://gdata.youtube.com'>YouTube data API</generator>
+  <openSearch:totalResults>29</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+  <media:group>
+    <media:content url='http://www.youtube.com/p/155D01149BA63C32' type='application/x-shockwave-flash' yt:format='5'/>
+    <media:description type='plain'>The whole lot from 2011 in one playlist. Here you'll find 'real' videos - ie
+      interviews and in depth discussion for products and issues relevant to Australian pro audio, lighting and anything
+      else we feel is relevant for stage, studio, broadcast and more; PLUS our collection of 'product promo clips' -
+      usually lasting for around 1min, they're a chance for us to let off some steam during the week.
+    </media:description>
+    <media:thumbnail url='http://i.ytimg.com/vi/kpYWiMSjHqU/default.jpg' height='90' width='120' yt:name='default'/>
+    <media:thumbnail url='http://i.ytimg.com/vi/kpYWiMSjHqU/mqdefault.jpg' height='180' width='320'
+                     yt:name='mqdefault'/>
+    <media:thumbnail url='http://i.ytimg.com/vi/kpYWiMSjHqU/hqdefault.jpg' height='360' width='480'
+                     yt:name='hqdefault'/>
+    <media:title type='plain'>2011 Interviews and Promos</media:title>
+    <yt:duration seconds='4013'/>
+  </media:group>
+  <yt:playlistId>155D01149BA63C32</yt:playlistId>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKUNlAx0DCo5OxePaOF5ef_x</id>
+    <published>2011-04-12T01:55:43.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Howto' label='Howto &amp; Style'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Shure'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Beta91A'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kick'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='drum'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='microphone'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='professional'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='audio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='livesound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='engineer'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='miking'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='stage'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='studio'/>
+    <title>Shure Beta91A Kick Drum Mic - Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/JJCxpyDziUQ?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=JJCxpyDziUQ&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/JJCxpyDziUQ/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/JJCxpyDziUQ/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=JJCxpyDziUQ'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/JJCxpyDziUQ?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKUNlAx0DCo5OxePaOF5ef_x?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/JJCxpyDziUQ/comments?v=2' countHint='4'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne</yt:location>
+    <media:group>
+      <media:category label='Howto &amp; Style' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Howto
+      </media:category>
+      <media:content url='https://www.youtube.com/v/JJCxpyDziUQ?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='70' yt:format='5'/>
+      <media:content
+              url='rtsp://v7.cache2.c.youtube.com/CiULENy73wIaHAlEifMgp7GQJBMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='70' yt:format='1'/>
+      <media:content
+              url='rtsp://v6.cache6.c.youtube.com/CiULENy73wIaHAlEifMgp7GQJBMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='70' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>The recently released Shure Beta91A kick drum microphone is a big improvement on
+        'the old one' - with its integrated microphone preamplifier now removing the need for the external XLR
+        preamplifier, and tethering cable. At just on 500g it's also a little heavier that the original Beta91. Perfect
+        for kick drums on any size stage, and you can also pop this one in pianos, organs and anything else with a big
+        (and low) freqency range.
+
+        Of course, for this promo clip one of our favourite customers Hugh shows up looking for a new microphone. We
+        make sure he gets looked after.
+
+        For any questions, head over to http://www.factorysound.com
+      </media:description>
+      <media:keywords>Shure, Beta91A, kick, drum, microphone, factory, sound, professional, audio, livesound, engineer,
+        miking, stage, studio
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=JJCxpyDziUQ&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/JJCxpyDziUQ/default.jpg' height='90' width='120' time='00:00:35'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/JJCxpyDziUQ/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/JJCxpyDziUQ/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/JJCxpyDziUQ/1.jpg' height='90' width='120' time='00:00:17.500'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/JJCxpyDziUQ/2.jpg' height='90' width='120' time='00:00:35'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/JJCxpyDziUQ/3.jpg' height='90' width='120' time='00:00:52.500'
+                       yt:name='end'/>
+      <media:title type='plain'>Shure Beta91A Kick Drum Mic - Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='70'/>
+      <yt:uploaded>2011-03-21T14:35:20.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>JJCxpyDziUQ</yt:videoid>
+    </media:group>
+    <gd:rating average='5.0' max='5' min='1' numRaters='2' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-03-21</yt:recorded>
+    <yt:statistics favoriteCount='1' viewCount='1673'/>
+    <yt:rating numDislikes='0' numLikes='2'/>
+    <yt:position>1</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKUCRnelH6LJm6QqyxyoMZWu</id>
+    <published>2011-04-12T01:55:57.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='professional'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='audio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='studio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='location'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='live'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='broadcast'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='boom'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='recording'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='4006A'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='4011A'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='4006C'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='modular'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='microphone'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='4017B'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='lightweigt'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shotgun'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='new'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='2000'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='series'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='DPA'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='2006A'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='2006C'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='2011A'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='2011C'/>
+    <title>DPA 4099 Intrument Mics &amp; 4000 Reference Standard Microphones</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/Ylrjs_WqYVg?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=Ylrjs_WqYVg&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/Ylrjs_WqYVg/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/Ylrjs_WqYVg/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=Ylrjs_WqYVg'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/Ylrjs_WqYVg?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKUCRnelH6LJm6QqyxyoMZWu?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/Ylrjs_WqYVg/comments?v=2' countHint='4'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/Ylrjs_WqYVg?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='421' yt:format='5'/>
+      <media:content
+              url='rtsp://v8.cache5.c.youtube.com/CiULENy73wIaHAlYYar1s-NaYhMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='421' yt:format='1'/>
+      <media:content
+              url='rtsp://v6.cache2.c.youtube.com/CiULENy73wIaHAlYYar1s-NaYhMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='421' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>This is our second interview with Ken Kimura from DPA. These Danish microphone
+        manufacturers are certainly keeping us all on our toes with another big batch of mics released in the past year.
+        Not only have they finished the magnificent 4099 supercardioid instrument condenser mic series, with the new
+        drum and piano mics (Ken goes into some nice detail here for a couple of minutes), but the revamped 4000 series
+        of Reference Standard microphones is now modular!
+        With improved electronics in the preamplifier sections, and a new compact preamp, the choice is now yours for
+        how to grab that signature DPA sound on classy stages, in studios and on location. ALSO announced is the all new
+        2000 series, coming in at a lower price.
+        For existing 4006 users, bring your old mic into Factory Sound and compare with the new 4006A - and trust your
+        ears.
+        For more information, hit http://www.factorysound.com and search for DPA.
+      </media:description>
+      <media:keywords>factory, sound, professional, audio, studio, location, live, broadcast, boom, recording, 4006A,
+        4011A, 4006C, modular, microphone, 4017B, lightweigt, shotgun, new, 2000, series, DPA, 2006A, 2006C, 2011A,
+        2011C
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=Ylrjs_WqYVg&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/Ylrjs_WqYVg/default.jpg' height='90' width='120' time='00:03:30.500'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/Ylrjs_WqYVg/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/Ylrjs_WqYVg/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/Ylrjs_WqYVg/1.jpg' height='90' width='120' time='00:01:45.250'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/Ylrjs_WqYVg/2.jpg' height='90' width='120' time='00:03:30.500'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/Ylrjs_WqYVg/3.jpg' height='90' width='120' time='00:05:15.750'
+                       yt:name='end'/>
+      <media:title type='plain'>DPA 4099 Intrument Mics &amp; 4000 Reference Standard Microphones</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='421'/>
+      <yt:uploaded>2011-04-04T22:18:38.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>Ylrjs_WqYVg</yt:videoid>
+    </media:group>
+    <gd:rating average='5.0' max='5' min='1' numRaters='2' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-03-11</yt:recorded>
+    <yt:statistics favoriteCount='0' viewCount='641'/>
+    <yt:rating numDislikes='0' numLikes='2'/>
+    <yt:position>2</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKX6tBLkOLxgMG_8Bgrb2PI4</id>
+    <published>2011-04-12T01:56:06.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sennheiser'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='e904'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='drum'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='microphone'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='tom'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='snare'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='live'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='studio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='professional'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='audio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='the'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='land'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='of'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='microphones'/>
+    <title>Sennheiser e904 Drum Mic - Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/ubxJvuzDsCw?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=ubxJvuzDsCw&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/ubxJvuzDsCw/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/ubxJvuzDsCw/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=ubxJvuzDsCw'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/ubxJvuzDsCw?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKX6tBLkOLxgMG_8Bgrb2PI4?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/ubxJvuzDsCw/comments?v=2' countHint='3'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/ubxJvuzDsCw?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='82' yt:format='5'/>
+      <media:content
+              url='rtsp://v7.cache3.c.youtube.com/CiULENy73wIaHAkssMPsvkm8uRMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='82' yt:format='1'/>
+      <media:content
+              url='rtsp://v2.cache5.c.youtube.com/CiULENy73wIaHAkssMPsvkm8uRMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='82' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>Following on from last, our favourite customer Hugh is back - and on a mission!
+        This time Hugh is after a dynamic mic to suit tom toms, and "possibly my snare" so he gets hooked up with
+        Sennheiser's ripper e904 mic. It includes a handy clamp to make sure there's no 'space hogging' stands needing
+        to clutter up your stage, which is just as well for Hugh...
+        These clips are a giggle for us, but on the more serious side - we *really* know our way around the forest of
+        microphones. If you've got questions, head on over to http://www.factorysound.com
+        Thanks for watching!
+      </media:description>
+      <media:keywords>factory, sound, sennheiser, e904, drum, microphone, tom, snare, live, studio, professional, audio,
+        the, land, of, microphones
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=ubxJvuzDsCw&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/ubxJvuzDsCw/default.jpg' height='90' width='120' time='00:00:41'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/ubxJvuzDsCw/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/ubxJvuzDsCw/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/ubxJvuzDsCw/1.jpg' height='90' width='120' time='00:00:20.500'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/ubxJvuzDsCw/2.jpg' height='90' width='120' time='00:00:41'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/ubxJvuzDsCw/3.jpg' height='90' width='120' time='00:01:01.500'
+                       yt:name='end'/>
+      <media:title type='plain'>Sennheiser e904 Drum Mic - Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='82'/>
+      <yt:uploaded>2011-03-29T15:06:34.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>ubxJvuzDsCw</yt:videoid>
+    </media:group>
+    <yt:recorded>2011-03-29</yt:recorded>
+    <yt:statistics favoriteCount='1' viewCount='1165'/>
+    <yt:position>3</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKV_gS_rFOGvAdbixn5v1igh</id>
+    <published>2011-04-12T01:56:14.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='RME'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Audio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='interfaces'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='professional'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='home'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='studio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='babyface'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='new'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ladyface'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='madi'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='grand'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='prix'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='melbourne'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='2011'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='musikmesse'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='frankfurt'/>
+    <title>Interview with Hermann Vega-Savon (CEO of RME) @ Melbourne GP 2011</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/rvIQ8oHRBtU?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=rvIQ8oHRBtU&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/rvIQ8oHRBtU/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/rvIQ8oHRBtU/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=rvIQ8oHRBtU'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/rvIQ8oHRBtU?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKV_gS_rFOGvAdbixn5v1igh?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/rvIQ8oHRBtU/comments?v=2' countHint='0'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>albert park lake, melbourne</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/rvIQ8oHRBtU?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='279' yt:format='5'/>
+      <media:content
+              url='rtsp://v1.cache3.c.youtube.com/CiULENy73wIaHAnVBtGB8hDyrhMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='279' yt:format='1'/>
+      <media:content
+              url='rtsp://v3.cache5.c.youtube.com/CiULENy73wIaHAnVBtGB8hDyrhMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='279' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>In what turned out to be more of an excellent day's socialising at the 2011
+        Melbourne Grand Prix, rather than an interview coup, we catch up with CEO of RME Audio, Hermann Vega Savon.
+        Hermann is not only an avid car enthusiast, he's also a great bloke, and accidentally spills the beans on the
+        new LadyFace from RME, not due to be released until Musikmesse 2011 (Frankfurt April 6-9, 2011).
+        We also talked off camera about a few interesting MADI bits and pieces coming up. A thorough gentleman. Thanks
+        for the chat Hermann.
+
+        Should you want any more info about RME, come via http://www.factorysound.com and get in touch. Cheers, and
+        thanks for watching
+
+        Interview with Hermann Vega-Savon (RME) @ Melbourne GP 2011
+      </media:description>
+      <media:keywords>factory, sound, RME, Audio, interfaces, professional, home, studio, babyface, new, ladyface, madi,
+        grand, prix, melbourne, 2011, musikmesse, frankfurt
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=rvIQ8oHRBtU&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/rvIQ8oHRBtU/default.jpg' height='90' width='120' time='00:02:19.500'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/rvIQ8oHRBtU/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/rvIQ8oHRBtU/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/rvIQ8oHRBtU/1.jpg' height='90' width='120' time='00:01:09.750'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/rvIQ8oHRBtU/2.jpg' height='90' width='120' time='00:02:19.500'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/rvIQ8oHRBtU/3.jpg' height='90' width='120' time='00:03:29.250'
+                       yt:name='end'/>
+      <media:title type='plain'>Interview with Hermann Vega-Savon (CEO of RME) @ Melbourne GP 2011</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='279'/>
+      <yt:uploaded>2011-03-28T04:38:09.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>rvIQ8oHRBtU</yt:videoid>
+    </media:group>
+    <gd:rating average='5.0' max='5' min='1' numRaters='1' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-03-25</yt:recorded>
+    <yt:statistics favoriteCount='0' viewCount='496'/>
+    <yt:rating numDislikes='0' numLikes='1'/>
+    <yt:position>4</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKVU0y23yYxAF6pt3T0LvmBR</id>
+    <published>2011-04-12T01:56:26.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='presonus'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='studio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='channel'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='microphone'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='preamp'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pro'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='audio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='home'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='recording'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='compressor'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='parametric'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='eq'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='equaliser'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='VU'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='meter'/>
+    <title>Presonus Studio Channel - Product Promo</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/ABSnDN-x45w?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=ABSnDN-x45w&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/ABSnDN-x45w/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/ABSnDN-x45w/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=ABSnDN-x45w'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/ABSnDN-x45w?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKVU0y23yYxAF6pt3T0LvmBR?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/ABSnDN-x45w/comments?v=2' countHint='15'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/ABSnDN-x45w?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='81' yt:format='5'/>
+      <media:content
+              url='rtsp://v5.cache5.c.youtube.com/CiULENy73wIaHAmc47HfDKcUABMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='81' yt:format='1'/>
+      <media:content
+              url='rtsp://v2.cache2.c.youtube.com/CiULENy73wIaHAmc47HfDKcUABMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='81' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>Presonus Studio Channel - It's almost stoopidly well-featured for the small amount
+        of $$ you'd spend on one of these. A full featured tube preamplifier for the home studio, and we're impressed by
+        the array of sounds you can grab from this one - thanks in no small part to the tube circuitry you can dial in
+        as required.
+        As usual, when we put 'product promo' in the title, it's because we're doing a little promotion on this one - if
+        you're already a signed up member of Factory Sound Footy Tipping $2011, then you're in luck as we're giving away
+        a Presonus Studio Channel this week to our best tipper.
+        For more information on the ripper little studio channel, or on how to hook in to our competition, head on over
+        to http://www.factorysound.com
+        Cheers! And thanks for watching.
+      </media:description>
+      <media:keywords>factory, sound, presonus, studio, channel, microphone, preamp, pro, audio, home, recording,
+        compressor, parametric, eq, equaliser, VU, meter
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=ABSnDN-x45w&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/ABSnDN-x45w/default.jpg' height='90' width='120' time='00:00:40.500'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/ABSnDN-x45w/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/ABSnDN-x45w/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/ABSnDN-x45w/1.jpg' height='90' width='120' time='00:00:20.250'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/ABSnDN-x45w/2.jpg' height='90' width='120' time='00:00:40.500'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/ABSnDN-x45w/3.jpg' height='90' width='120' time='00:01:00.750'
+                       yt:name='end'/>
+      <media:title type='plain'>Presonus Studio Channel - Product Promo</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='81'/>
+      <yt:uploaded>2011-04-05T13:40:39.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>ABSnDN-x45w</yt:videoid>
+    </media:group>
+    <gd:rating average='4.428571' max='5' min='1' numRaters='28' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-04-06</yt:recorded>
+    <yt:statistics favoriteCount='9' viewCount='8845'/>
+    <yt:rating numDislikes='4' numLikes='24'/>
+    <yt:position>5</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKW4SILncGLUv-5nhxxP8J27</id>
+    <published>2011-04-12T01:56:32.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='jands'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='wireless'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='spectrum'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='update'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='700'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mhz'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='whitespace'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='device'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='digital'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='television'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='broadcast'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='reallocation'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='2013'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='jeff'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mackenzie'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='professional'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='audio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='live'/>
+    <title>Update - Wireless Spectrum in Australia, with Jeff MacKenzie</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/SyvkgKBn_VU?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=SyvkgKBn_VU&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/SyvkgKBn_VU/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/SyvkgKBn_VU/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=SyvkgKBn_VU'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/SyvkgKBn_VU?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKW4SILncGLUv-5nhxxP8J27?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/SyvkgKBn_VU/comments?v=2' countHint='3'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/SyvkgKBn_VU?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='545' yt:format='5'/>
+      <media:content
+              url='rtsp://v4.cache8.c.youtube.com/CiULENy73wIaHAlV_WeggOQrSxMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='545' yt:format='1'/>
+      <media:content
+              url='rtsp://v7.cache3.c.youtube.com/CiULENy73wIaHAlV_WeggOQrSxMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='545' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>This is a follow-up to last year's interview with Jeff MacKenzie. Last year we
+        learnt about the imminent changes to our UHF spectrum for wireless microphone users. Although there is no firm
+        word about what or when just yet, Jeff is able to talk us through not only what has happened in USA when they
+        'sold off' the 700 MHz range, but as he is the technical advisor to AWAG (Australian Wireless Audio Group), he's
+        also able to give us a great insight into the different possibilities we may be facing as wireless microphone
+        users.
+        To see the original video from 2010, go here: http://www.youtube.com/watch?v=FdmKbi8SqAQ
+
+        And to keep up with the latest news for anything related to wireless audio in Australia, make sure you keep in
+        touch with Factory Sound - http://www.factorysound.com
+
+        A big thanks to Jeff MacKenzie.
+      </media:description>
+      <media:keywords>factory, sound, jands, wireless, spectrum, update, 700, mhz, whitespace, device, digital,
+        television, broadcast, reallocation, 2013, jeff, mackenzie, professional, audio, live
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=SyvkgKBn_VU&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/SyvkgKBn_VU/default.jpg' height='90' width='120' time='00:04:32.500'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/SyvkgKBn_VU/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/SyvkgKBn_VU/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/SyvkgKBn_VU/1.jpg' height='90' width='120' time='00:02:16.250'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/SyvkgKBn_VU/2.jpg' height='90' width='120' time='00:04:32.500'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/SyvkgKBn_VU/3.jpg' height='90' width='120' time='00:06:48.750'
+                       yt:name='end'/>
+      <media:title type='plain'>Update - Wireless Spectrum in Australia, with Jeff MacKenzie</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='545'/>
+      <yt:uploaded>2011-04-11T13:50:20.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>SyvkgKBn_VU</yt:videoid>
+    </media:group>
+    <gd:rating average='5.0' max='5' min='1' numRaters='1' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-03-30</yt:recorded>
+    <yt:statistics favoriteCount='1' viewCount='376'/>
+    <yt:rating numDislikes='0' numLikes='1'/>
+    <yt:position>6</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKVWitmzfvtumd6mNE0I8sdl</id>
+    <published>2011-04-18T05:50:56.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='goldenage'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='home'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='project'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='studio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='outboard'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='compressor'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hardware'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='golden'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='age'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pre'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='73'/>
+    <title>Golden Age Comp54 - Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/kpYWiMSjHqU?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=kpYWiMSjHqU&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/kpYWiMSjHqU/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/kpYWiMSjHqU/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=kpYWiMSjHqU'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/kpYWiMSjHqU?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKVWitmzfvtumd6mNE0I8sdl?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/kpYWiMSjHqU/comments?v=2' countHint='7'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/kpYWiMSjHqU?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='83' yt:format='5'/>
+      <media:content
+              url='rtsp://v3.cache2.c.youtube.com/CiULENy73wIaHAmlHqPEiBaWkhMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='83' yt:format='1'/>
+      <media:content
+              url='rtsp://v7.cache6.c.youtube.com/CiULENy73wIaHAmlHqPEiBaWkhMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='83' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>Great little (half rack) compressor - Golden Age Comp54. We're rather passionate
+        about our pro audio products. Perhaps a bit too passionate. This promo clip shows a bit of what the Comp 54 has
+        got up its sleeve, but really it was more a chance for us to let off a little steam.
+        If you'd like to learn more about the great little comp, or how to use it in your studio setup, head on over to
+        http://www.factorysound.com and we'll make sure you get looked after.
+        Cheers!
+      </media:description>
+      <media:keywords>factory, sound, goldenage, home, project, studio, outboard, compressor, hardware, golden, age,
+        pre, 73
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=kpYWiMSjHqU&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/kpYWiMSjHqU/default.jpg' height='90' width='120' time='00:00:41.500'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/kpYWiMSjHqU/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/kpYWiMSjHqU/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/kpYWiMSjHqU/1.jpg' height='90' width='120' time='00:00:20.750'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/kpYWiMSjHqU/2.jpg' height='90' width='120' time='00:00:41.500'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/kpYWiMSjHqU/3.jpg' height='90' width='120' time='00:01:02.250'
+                       yt:name='end'/>
+      <media:title type='plain'>Golden Age Comp54 - Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='83'/>
+      <yt:uploaded>2011-04-13T14:05:03.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>kpYWiMSjHqU</yt:videoid>
+    </media:group>
+    <gd:rating average='4.714286' max='5' min='1' numRaters='14' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-04-14</yt:recorded>
+    <yt:statistics favoriteCount='5' viewCount='2343'/>
+    <yt:rating numDislikes='1' numLikes='13'/>
+    <yt:position>7</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKX_ilHWZXfLUis2L7nt8Oc9</id>
+    <published>2011-04-28T04:37:37.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ev'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='electrovoice'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='re320'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='re20'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='broadcast'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='recording'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='studio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='voiceover'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kick'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='drum'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mic'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='live'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dual'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='personality'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='parody'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dr'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='jekyll'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mr'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hyde'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='horror'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='movie'/>
+    <title>Electrovoice RE320 (voiceover &amp; kick mic) - Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/SVNoZ5WtWhQ?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=SVNoZ5WtWhQ&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/SVNoZ5WtWhQ/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/SVNoZ5WtWhQ/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=SVNoZ5WtWhQ'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/SVNoZ5WtWhQ?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKX_ilHWZXfLUis2L7nt8Oc9?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/SVNoZ5WtWhQ/comments?v=2' countHint='10'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/SVNoZ5WtWhQ?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='88' yt:format='5'/>
+      <media:content
+              url='rtsp://v1.cache1.c.youtube.com/CiULENy73wIaHAkUWq2VZ2hTSRMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='88' yt:format='1'/>
+      <media:content
+              url='rtsp://v5.cache3.c.youtube.com/CiULENy73wIaHAkUWq2VZ2hTSRMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='88' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>Our favourite customer Hugh is back, and this time he's after 1 mic for 2 jobs -
+        voiceover and kick drum. Luckily for Hugh Electrovoice had just released the new RE320. It's based around the
+        legendary RE20, but with a neodymium magnet, and a switch for voice filter (flat) or some dips and peaks that
+        are perfect for kick drum use.
+        If you want any more info on RE320 - especially more serious info that what you've seen here, hit
+        http://www.factorysound.com and search for RE320.
+        Cheers!
+      </media:description>
+      <media:keywords>factory, sound, ev, electrovoice, re320, re20, broadcast, recording, studio, voiceover, kick,
+        drum, mic, live, dual, personality, parody, dr, jekyll, mr, hyde, horror, movie
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=SVNoZ5WtWhQ&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/SVNoZ5WtWhQ/default.jpg' height='90' width='120' time='00:00:44'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/SVNoZ5WtWhQ/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/SVNoZ5WtWhQ/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/SVNoZ5WtWhQ/1.jpg' height='90' width='120' time='00:00:22'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/SVNoZ5WtWhQ/2.jpg' height='90' width='120' time='00:00:44'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/SVNoZ5WtWhQ/3.jpg' height='90' width='120' time='00:01:06'
+                       yt:name='end'/>
+      <media:title type='plain'>Electrovoice RE320 (voiceover &amp; kick mic) - Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='88'/>
+      <yt:uploaded>2011-04-20T02:00:46.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>SVNoZ5WtWhQ</yt:videoid>
+    </media:group>
+    <gd:rating average='3.3636363' max='5' min='1' numRaters='22' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-04-19</yt:recorded>
+    <yt:statistics favoriteCount='3' viewCount='4394'/>
+    <yt:rating numDislikes='9' numLikes='13'/>
+    <yt:position>8</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKUb4tgEfEWct1MRUT0V9DpY</id>
+    <published>2011-04-28T04:37:43.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='fostex'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pm05'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='powered'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='studio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='monitors'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='nearfield'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='home'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='recording'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='project'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='parody'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='edit'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='suite'/>
+    <title>Fostex PM05MkII - Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/9ibL0lg4w_U?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=9ibL0lg4w_U&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/9ibL0lg4w_U/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/9ibL0lg4w_U/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=9ibL0lg4w_U'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/9ibL0lg4w_U?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKUb4tgEfEWct1MRUT0V9DpY?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/9ibL0lg4w_U/comments?v=2' countHint='5'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne</yt:location>
+    <media:group>
+      <media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+        Entertainment
+      </media:category>
+      <media:content url='https://www.youtube.com/v/9ibL0lg4w_U?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='65' yt:format='5'/>
+      <media:content
+              url='rtsp://v3.cache4.c.youtube.com/CiULENy73wIaHAn1wzhY0ssm9hMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='65' yt:format='1'/>
+      <media:content
+              url='rtsp://v6.cache2.c.youtube.com/CiULENy73wIaHAn1wzhY0ssm9hMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='65' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>Kings of the mid-priced, powered nearfield studio monitors - the Fostex PM05MkII.
+        We've been asked so many times: I want to improve my studio monitors, and I've got $xxx to spend... the answer
+        is usually "mix it on PM05".
+
+        So it got us thinking about another promo clip. If you've been following any of these Factory Sound Promo Clips,
+        you'll know that we love nothing better than a song parody, mixed with a some amateurly choregraphed dance
+        moves, and topped off by a dash of lippy.
+
+        On a more serious note, PM05MkII are a great little powered monitor for the home and project studio. They sound
+        great for a little edit suite too. For more serious info, head over to http://www.factorysound.com
+      </media:description>
+      <media:keywords>factory, sound, fostex, pm05, powered, studio, monitors, nearfield, home, recording, project,
+        parody, edit, suite
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=9ibL0lg4w_U&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/9ibL0lg4w_U/default.jpg' height='90' width='120' time='00:00:32.500'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/9ibL0lg4w_U/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/9ibL0lg4w_U/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/9ibL0lg4w_U/1.jpg' height='90' width='120' time='00:00:16.250'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/9ibL0lg4w_U/2.jpg' height='90' width='120' time='00:00:32.500'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/9ibL0lg4w_U/3.jpg' height='90' width='120' time='00:00:48.750'
+                       yt:name='end'/>
+      <media:title type='plain'>Fostex PM05MkII - Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='65'/>
+      <yt:uploaded>2011-04-28T03:38:54.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>9ibL0lg4w_U</yt:videoid>
+    </media:group>
+    <gd:rating average='3.2222223' max='5' min='1' numRaters='9' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-04-28</yt:recorded>
+    <yt:statistics favoriteCount='0' viewCount='2197'/>
+    <yt:rating numDislikes='4' numLikes='5'/>
+    <yt:position>9</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKWFs7lA6QjQQ_fsDj4eM7pT</id>
+    <published>2011-05-13T00:24:13.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='lighting'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='LED'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='PixE'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='RGB'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='batton'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='light'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='fever'/>
+    <title>SDV LED PixE - Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/RZGGXXjHFR0?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=RZGGXXjHFR0&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/RZGGXXjHFR0/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/RZGGXXjHFR0/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=RZGGXXjHFR0'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/RZGGXXjHFR0?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKWFs7lA6QjQQ_fsDj4eM7pT?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/RZGGXXjHFR0/comments?v=2' countHint='0'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne</yt:location>
+    <media:group>
+      <media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+        Entertainment
+      </media:category>
+      <media:content url='https://www.youtube.com/v/RZGGXXjHFR0?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='81' yt:format='5'/>
+      <media:content
+              url='rtsp://v4.cache8.c.youtube.com/CiULENy73wIaHAkdFcd4XYaRRRMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='81' yt:format='1'/>
+      <media:content
+              url='rtsp://v2.cache6.c.youtube.com/CiULENy73wIaHAkdFcd4XYaRRRMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='81' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>Factory Sound - did you know though, we also 'do' lights. In fact, we love
+        lighting because it's one very important ingredient to help us all look as good as we sound for the show. This
+        little promo clip is to highlight just one of the many lighting fixtures in our range - SDV LED PixE. With up to
+        16 million different colour mixing possibilities, DMX (or stand-alone) control, and some dead-set excellent
+        preset programs, this is and excellent fixture.
+        To see more serious information on the LED PixE, head on over to http://www.factorysound.com
+        Cheers!
+      </media:description>
+      <media:keywords>factory, sound, lighting, LED, PixE, RGB, batton, light, fever</media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=RZGGXXjHFR0&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/RZGGXXjHFR0/default.jpg' height='90' width='120' time='00:00:40.500'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/RZGGXXjHFR0/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/RZGGXXjHFR0/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/RZGGXXjHFR0/1.jpg' height='90' width='120' time='00:00:20.250'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/RZGGXXjHFR0/2.jpg' height='90' width='120' time='00:00:40.500'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/RZGGXXjHFR0/3.jpg' height='90' width='120' time='00:01:00.750'
+                       yt:name='end'/>
+      <media:title type='plain'>SDV LED PixE - Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='81'/>
+      <yt:uploaded>2011-05-04T14:21:36.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>RZGGXXjHFR0</yt:videoid>
+    </media:group>
+    <yt:recorded>2011-05-05</yt:recorded>
+    <yt:statistics favoriteCount='1' viewCount='395'/>
+    <yt:position>10</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKWUA-CEC4Hv6KsAdVSyZRUr</id>
+    <published>2011-05-13T00:24:20.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='primacoustic'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='isotools'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='studio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='isolation'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kickstand'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='crashguard'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='recording'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='spillage'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='multitrack'/>
+    <title>Primacoustic IsoTools - Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/f5Z6jFwMshc?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=f5Z6jFwMshc&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/f5Z6jFwMshc/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/f5Z6jFwMshc/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=f5Z6jFwMshc'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/f5Z6jFwMshc?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKWUA-CEC4Hv6KsAdVSyZRUr?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/f5Z6jFwMshc/comments?v=2' countHint='3'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/f5Z6jFwMshc?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='76' yt:format='5'/>
+      <media:content
+              url='rtsp://v4.cache6.c.youtube.com/CiULENy73wIaHAkXsgxcjHqWfxMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='76' yt:format='1'/>
+      <media:content
+              url='rtsp://v5.cache3.c.youtube.com/CiULENy73wIaHAkXsgxcjHqWfxMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='76' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>Hugh is back, and needs some help with all his new microphones - apparently he's
+        getting too much 'spillage' in his recordings. Luckily we've got something to sort him right out: Primacoustic's
+        range of IsoTools. The KickStand and CrashGuard are excellent additions to anyone's studio, and the KickStand
+        can also be used with great effect for ultra-resonant stages where low-end rumble is a great concern.
+        For more serious information on these great Primacoustic IsoTools, head on over to http://www.factorysound.com
+        Thanks for watching!
+      </media:description>
+      <media:keywords>factory, sound, primacoustic, isotools, studio, isolation, kickstand, crashguard, recording,
+        spillage, multitrack
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=f5Z6jFwMshc&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/f5Z6jFwMshc/default.jpg' height='90' width='120' time='00:00:38'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/f5Z6jFwMshc/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/f5Z6jFwMshc/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/f5Z6jFwMshc/1.jpg' height='90' width='120' time='00:00:19'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/f5Z6jFwMshc/2.jpg' height='90' width='120' time='00:00:38'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/f5Z6jFwMshc/3.jpg' height='90' width='120' time='00:00:57'
+                       yt:name='end'/>
+      <media:title type='plain'>Primacoustic IsoTools - Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='76'/>
+      <yt:uploaded>2011-05-12T05:26:12.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>f5Z6jFwMshc</yt:videoid>
+    </media:group>
+    <gd:rating average='5.0' max='5' min='1' numRaters='1' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-05-12</yt:recorded>
+    <yt:statistics favoriteCount='0' viewCount='817'/>
+    <yt:rating numDislikes='0' numLikes='1'/>
+    <yt:position>11</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKXVHrfwVF-jljlN20qpCaRi</id>
+    <published>2011-05-19T01:00:19.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='audiotechnica'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='atw-2000a'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='wireless'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='microphone'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='system'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='recharging'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dock'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='queen'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='parody'/>
+    <title>Audio-Technica ATW2000a - Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/29SONGF4p8Y?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=29SONGF4p8Y&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/29SONGF4p8Y/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/29SONGF4p8Y/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=29SONGF4p8Y'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/29SONGF4p8Y?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKXVHrfwVF-jljlN20qpCaRi?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/29SONGF4p8Y/comments?v=2' countHint='3'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/29SONGF4p8Y?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='112' yt:format='5'/>
+      <media:content
+              url='rtsp://v4.cache4.c.youtube.com/CiULENy73wIaHAnGp3hhNI7U2xMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='112' yt:format='1'/>
+      <media:content
+              url='rtsp://v5.cache2.c.youtube.com/CiULENy73wIaHAnGp3hhNI7U2xMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='112' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>Hugh comes in, this time a little disappointed. It seems his mic has failed after
+        a couple of gigs. "Have you checked the batteries Hugh?"
+        No need to think too hard if it's the Audio-Technica ATW-2000a series though, because you can get a handy 2-bay
+        recharging dock to go with this 2nd generation wireless microphone series. It's good for either handheld or
+        bodypack transmitters (or both), and has got handy safety features onboard, should you have forgotten that NiMH
+        batteries are needed when using the recharge facility.
+        If you'd like more specs or serious info on AudioTechnica ATW2000a wireless systems, head over to
+        http://www.factorysound.com
+      </media:description>
+      <media:keywords>factory, sound, audiotechnica, atw-2000a, wireless, microphone, system, recharging, dock, queen,
+        parody
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=29SONGF4p8Y&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/29SONGF4p8Y/default.jpg' height='90' width='120' time='00:00:56'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/29SONGF4p8Y/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/29SONGF4p8Y/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/29SONGF4p8Y/1.jpg' height='90' width='120' time='00:00:28'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/29SONGF4p8Y/2.jpg' height='90' width='120' time='00:00:56'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/29SONGF4p8Y/3.jpg' height='90' width='120' time='00:01:24'
+                       yt:name='end'/>
+      <media:title type='plain'>Audio-Technica ATW2000a - Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='112'/>
+      <yt:uploaded>2011-05-18T23:45:16.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>29SONGF4p8Y</yt:videoid>
+    </media:group>
+    <gd:rating average='5.0' max='5' min='1' numRaters='3' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-05-18</yt:recorded>
+    <yt:statistics favoriteCount='0' viewCount='746'/>
+    <yt:rating numDislikes='0' numLikes='3'/>
+    <yt:position>12</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKVbs2A5dbptgOkcR3blKQcH</id>
+    <published>2011-05-26T05:54:47.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sennheiser'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='e945'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='stage'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='vocal'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='microphone'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='e900'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='series'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dynamic'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='supercardioid'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='tom'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='jones'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='delilah'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='parody'/>
+    <title>Sennheiser e945 - Product Promo</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/b3eFCbqskIU?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=b3eFCbqskIU&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/b3eFCbqskIU/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/b3eFCbqskIU/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=b3eFCbqskIU'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/b3eFCbqskIU?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKVbs2A5dbptgOkcR3blKQcH?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/b3eFCbqskIU/comments?v=2' countHint='1'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne, vic 3205</yt:location>
+    <media:group>
+      <media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+        Entertainment
+      </media:category>
+      <media:content url='https://www.youtube.com/v/b3eFCbqskIU?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='98' yt:format='5'/>
+      <media:content
+              url='rtsp://v3.cache6.c.youtube.com/CiULENy73wIaHAmFkKy6CYV3bxMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='98' yt:format='1'/>
+      <media:content
+              url='rtsp://v2.cache7.c.youtube.com/CiULENy73wIaHAmFkKy6CYV3bxMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='98' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>If you've ever been into Factory Sound, you will already know that we're massive
+        Sennheiser fans, any of the e900 series is great gear. What you may not know is that we're quietly fans of the
+        mighty Delilah - especially if we have had a couple of drinks. So this week - and we're not quite sure how it
+        happened - our two passions collided.
+        The e945 vocal mic is seriously good, and is now the go-to stage vocal microphone for many performers and
+        engineers here in Australia, and around our planet. For 'real' info on this mic, head over to
+        http://factorysound.com - and we'll make sure you get looked after.
+        Cheers!
+      </media:description>
+      <media:keywords>factory, sound, sennheiser, e945, stage, vocal, microphone, e900, series, dynamic, supercardioid,
+        tom, jones, delilah, parody
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=b3eFCbqskIU&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/b3eFCbqskIU/default.jpg' height='90' width='120' time='00:00:49'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/b3eFCbqskIU/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/b3eFCbqskIU/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/b3eFCbqskIU/1.jpg' height='90' width='120' time='00:00:24.500'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/b3eFCbqskIU/2.jpg' height='90' width='120' time='00:00:49'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/b3eFCbqskIU/3.jpg' height='90' width='120' time='00:01:13.500'
+                       yt:name='end'/>
+      <media:title type='plain'>Sennheiser e945 - Product Promo</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='98'/>
+      <yt:uploaded>2011-05-26T03:59:44.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>b3eFCbqskIU</yt:videoid>
+    </media:group>
+    <gd:rating average='4.6363635' max='5' min='1' numRaters='11' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-05-25</yt:recorded>
+    <yt:statistics favoriteCount='2' viewCount='3046'/>
+    <yt:rating numDislikes='1' numLikes='10'/>
+    <yt:position>13</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKX0PRlHBs-UhNSTgqltf3i3</id>
+    <published>2011-06-09T07:34:44.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='konig'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='meyer'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='K&amp;M'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='stands'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='for'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='music'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='microphone'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='speaker'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='lighting'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='weather'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='girls'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='parody'/>
+    <title>Konig &amp; Meyer - Product Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/L5z7J8mNw5Q?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=L5z7J8mNw5Q&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/L5z7J8mNw5Q/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/L5z7J8mNw5Q/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=L5z7J8mNw5Q'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/L5z7J8mNw5Q?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKX0PRlHBs-UhNSTgqltf3i3?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/L5z7J8mNw5Q/comments?v=2' countHint='6'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, southe melbourne, vic 3205</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/L5z7J8mNw5Q?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='105' yt:format='5'/>
+      <media:content
+              url='rtsp://v1.cache4.c.youtube.com/CiULENy73wIaHAmUw43JJ_ucLxMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='105' yt:format='1'/>
+      <media:content
+              url='rtsp://v8.cache3.c.youtube.com/CiULENy73wIaHAmUw43JJ_ucLxMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='105' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>Our favourite brand of stand, bar none. Germany's Konig&amp;Meyer has been
+        producing awesome quality stands for over 60 years. Speaker stands, microphone stands, lighting stands, and a
+        huge array of instrument stands and accessories. We've loved them for at least 15 of those years.
+        Anyway, we were sitting around after work hours earlier this week, having a cleansing lager, talking about the
+        good old days, and light a bolt of lightning - we were struck with an idea for a little promo clip. Any excuse
+        really.
+        For more intelligent information on K&amp;M stands, catch up with us at http://www.factorysound.com - we keep
+        more K&amp;M stands in stock than any other shop in Australia. Cheers!
+      </media:description>
+      <media:keywords>factory, sound, konig, meyer, K&amp;M, stands, for, music, microphone, speaker, lighting, weather,
+        girls, parody
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=L5z7J8mNw5Q&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/L5z7J8mNw5Q/default.jpg' height='90' width='120' time='00:00:52.500'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/L5z7J8mNw5Q/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/L5z7J8mNw5Q/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/L5z7J8mNw5Q/1.jpg' height='90' width='120' time='00:00:26.250'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/L5z7J8mNw5Q/2.jpg' height='90' width='120' time='00:00:52.500'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/L5z7J8mNw5Q/3.jpg' height='90' width='120' time='00:01:18.750'
+                       yt:name='end'/>
+      <media:title type='plain'>Konig &amp; Meyer - Product Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='105'/>
+      <yt:uploaded>2011-06-02T06:09:49.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>L5z7J8mNw5Q</yt:videoid>
+    </media:group>
+    <gd:rating average='4.3333335' max='5' min='1' numRaters='6' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-06-01</yt:recorded>
+    <yt:statistics favoriteCount='3' viewCount='1036'/>
+    <yt:rating numDislikes='1' numLikes='5'/>
+    <yt:position>14</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKV2svEQFgCwx3M9FuU33XYw</id>
+    <published>2011-06-09T07:34:53.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='clearance'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sale'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='2011'/>
+    <title>Back to 'normal' programming next week</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/lkozc98nKWI?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=lkozc98nKWI&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/lkozc98nKWI/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/lkozc98nKWI/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=lkozc98nKWI'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/lkozc98nKWI?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKV2svEQFgCwx3M9FuU33XYw?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/lkozc98nKWI/comments?v=2' countHint='1'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne, vic 3205</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/lkozc98nKWI?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='16' yt:format='5'/>
+      <media:content
+              url='rtsp://v4.cache5.c.youtube.com/CiULENy73wIaHAliKSffczNKlhMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='16' yt:format='1'/>
+      <media:content
+              url='rtsp://v3.cache6.c.youtube.com/CiULENy73wIaHAliKSffczNKlhMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='16' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>So for anyone who has been keeping up with our goings on, you'll know that 6-11
+        June 2011 we've been up to our ears in a clearance sale.
+        You'll also know that our favourite way of letting off steam is to do a 'product promo clip', where we have a
+        bit of fun - these will return next week.
+        And the more serious interview videos - they're back soon, as it's coming into Australian audio tradeshow
+        season. Entech &amp; SMPTE are on 19-22 July 2011 in Sydney's Darling Harbour, and Integrate will be back for
+        its third and final year at Sydney's Hordern Pavillion this coming August 30th - September 1st 2011.
+        And for our footy tippers - we're still on for this week!
+        Cheers
+      </media:description>
+      <media:keywords>factory, sound, clearance, sale, 2011</media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=lkozc98nKWI&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/lkozc98nKWI/default.jpg' height='90' width='120' time='00:00:08'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/lkozc98nKWI/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/lkozc98nKWI/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/lkozc98nKWI/1.jpg' height='90' width='120' time='00:00:04'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/lkozc98nKWI/2.jpg' height='90' width='120' time='00:00:08'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/lkozc98nKWI/3.jpg' height='90' width='120' time='00:00:12'
+                       yt:name='end'/>
+      <media:title type='plain'>Back to 'normal' programming next week</media:title>
+      <yt:duration seconds='16'/>
+      <yt:uploaded>2011-06-09T00:24:13.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>lkozc98nKWI</yt:videoid>
+    </media:group>
+    <yt:recorded>2011-06-08</yt:recorded>
+    <yt:statistics favoriteCount='0' viewCount='268'/>
+    <yt:position>15</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKWEFTBpPexK_8LMR6sKBU_j</id>
+    <published>2011-06-17T02:46:42.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shure'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='se535'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='in'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ear'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='monitoring'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dream'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sequence'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='daryl'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='braithwaite'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='horses'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='parody'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='professional'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='audio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='live'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='stage'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='performace'/>
+    <title>Shure SE535 - Product Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/RCizX4C-bCk?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=RCizX4C-bCk&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/RCizX4C-bCk/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/RCizX4C-bCk/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=RCizX4C-bCk'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/RCizX4C-bCk?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKWEFTBpPexK_8LMR6sKBU_j?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/RCizX4C-bCk/comments?v=2' countHint='4'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne, vic 3205</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/RCizX4C-bCk?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='119' yt:format='5'/>
+      <media:content
+              url='rtsp://v8.cache2.c.youtube.com/CiULENy73wIaHAkpbL6AX7MoRBMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='119' yt:format='1'/>
+      <media:content
+              url='rtsp://v3.cache2.c.youtube.com/CiULENy73wIaHAkpbL6AX7MoRBMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='119' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>Hugh gets a nocturnal visitor - and it's none other than 3-times Australian King
+        of Pop, Daryl Braithwaite! Was it all just a dream, or did Daryl really show up, shove a set of Shure's ripping
+        great SE535 in-ear monitors deep into Hugh's ears and feed him subliminal messages? And just why did Hugh wake
+        up the next morning with a yearning for horses?
+        You know when it says 'product promo clip' that we're having a bit of fun during our week, but if you want some
+        more serious Shure SE535 information, head on over to http://www.factorysound.com
+        And just for fun, this one was our first 'double parody', dipping our hat to the 'Darth Vader' scene from Back
+        to the Future, and of course Daryl was and awesome sport, having a go at 'Horses' for us. Cheers!
+      </media:description>
+      <media:keywords>factory, sound, shure, se535, in, ear, monitoring, dream, sequence, daryl, braithwaite, horses,
+        parody, professional, audio, live, stage, performace
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=RCizX4C-bCk&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/RCizX4C-bCk/default.jpg' height='90' width='120' time='00:00:59.500'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/RCizX4C-bCk/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/RCizX4C-bCk/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/RCizX4C-bCk/1.jpg' height='90' width='120' time='00:00:29.750'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/RCizX4C-bCk/2.jpg' height='90' width='120' time='00:00:59.500'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/RCizX4C-bCk/3.jpg' height='90' width='120' time='00:01:29.250'
+                       yt:name='end'/>
+      <media:title type='plain'>Shure SE535 - Product Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='119'/>
+      <yt:uploaded>2011-06-17T01:43:59.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>RCizX4C-bCk</yt:videoid>
+    </media:group>
+    <gd:rating average='5.0' max='5' min='1' numRaters='6' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-06-16</yt:recorded>
+    <yt:statistics favoriteCount='3' viewCount='2546'/>
+    <yt:rating numDislikes='0' numLikes='6'/>
+    <yt:position>16</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKU3i2Iwgcsc-M7AyYFCat92</id>
+    <published>2011-06-24T06:47:15.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='roland'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='handheld'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='recorder'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='r05'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='r09'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dictaphone'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='field'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='recording'/>
+    <title>Roland R05 - Product Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/kGbKUK4HXWQ?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=kGbKUK4HXWQ&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/kGbKUK4HXWQ/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/kGbKUK4HXWQ/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=kGbKUK4HXWQ'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/kGbKUK4HXWQ?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKU3i2Iwgcsc-M7AyYFCat92?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/kGbKUK4HXWQ/comments?v=2' countHint='2'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne, vic 3205</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/kGbKUK4HXWQ?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='94' yt:format='5'/>
+      <media:content
+              url='rtsp://v2.cache2.c.youtube.com/CiULENy73wIaHAlkXQeuUMpmkBMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='94' yt:format='1'/>
+      <media:content
+              url='rtsp://v4.cache2.c.youtube.com/CiULENy73wIaHAlkXQeuUMpmkBMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='94' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>We love Roland handheld recorders, after falling in love with the trusty R-09 (and
+        R-09HR) many years ago. The newest recorder to find a home on the range is this ripping little R05 recorder.
+        We're so impressed that it was impossible not to make another one of our promo clips.
+        Built in editing, onboard effects, stereo microphone - what's not to love about the R05 - all records to an SD
+        card (2GB supplied). If you want more serious info on any of the products we stock at Factory Sound, head on
+        over to http://www.factorysound.com where you'll find the lowdown - without the cowboy hats and chaps. Not that
+        there's anything wrong with that.
+        Cheers, and thanks for watching!
+      </media:description>
+      <media:keywords>factory, sound, roland, handheld, recorder, r05, r09, dictaphone, field, recording
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=kGbKUK4HXWQ&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/kGbKUK4HXWQ/default.jpg' height='90' width='120' time='00:00:47'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/kGbKUK4HXWQ/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/kGbKUK4HXWQ/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/kGbKUK4HXWQ/1.jpg' height='90' width='120' time='00:00:23.500'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/kGbKUK4HXWQ/2.jpg' height='90' width='120' time='00:00:47'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/kGbKUK4HXWQ/3.jpg' height='90' width='120' time='00:01:10.500'
+                       yt:name='end'/>
+      <media:title type='plain'>Roland R05 - Product Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='94'/>
+      <yt:uploaded>2011-06-24T05:56:53.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>kGbKUK4HXWQ</yt:videoid>
+    </media:group>
+    <gd:rating average='3.857143' max='5' min='1' numRaters='7' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-06-24</yt:recorded>
+    <yt:statistics favoriteCount='1' viewCount='1418'/>
+    <yt:rating numDislikes='2' numLikes='5'/>
+    <yt:position>17</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKVEPq1LTRXcYvhyBDBhpg--</id>
+    <published>2011-08-11T04:34:03.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='drawmer'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dynamic'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='signal'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='processing'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mx30'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mxpro'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='new'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='series'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='lola'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='parody'/>
+    <title>Drawmer MX30 - Product Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/2YNzg2o0m4M?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=2YNzg2o0m4M&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/2YNzg2o0m4M/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/2YNzg2o0m4M/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=2YNzg2o0m4M'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/2YNzg2o0m4M?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKVEPq1LTRXcYvhyBDBhpg--?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/2YNzg2o0m4M/comments?v=2' countHint='0'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york st, south melbourne, vic 3205</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/2YNzg2o0m4M?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='84' yt:format='5'/>
+      <media:content
+              url='rtsp://v3.cache1.c.youtube.com/CiULENy73wIaHAmDmzRqg3OD2RMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='84' yt:format='1'/>
+      <media:content
+              url='rtsp://v6.cache1.c.youtube.com/CiULENy73wIaHAmDmzRqg3OD2RMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='84' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>To celebrate the re-release of Drawmer's MX-PRO series of dynamic signal
+        processors (you may remember their older gold-faced models), we had a couple of beers. As it turns out, that was
+        all it took to inspire us to come up with another one of our promo clips.
+        Still made in England, Drawmer's MX30 is proof that good dynamic signal processing never goes out of style - a
+        ripper little 2-channel compressor, that also includes a 'programme adaptive' gate. If you'd prefer your
+        information to be serious, rather that a dodgey parody of a great song, check out http://www.factorysound.com
+        for the real deal.
+      </media:description>
+      <media:keywords>factory, sound, drawmer, dynamic, signal, processing, mx30, mxpro, new, series, lola, parody
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=2YNzg2o0m4M&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/2YNzg2o0m4M/default.jpg' height='90' width='120' time='00:00:42'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/2YNzg2o0m4M/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/2YNzg2o0m4M/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/2YNzg2o0m4M/1.jpg' height='90' width='120' time='00:00:21'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/2YNzg2o0m4M/2.jpg' height='90' width='120' time='00:00:42'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/2YNzg2o0m4M/3.jpg' height='90' width='120' time='00:01:03'
+                       yt:name='end'/>
+      <media:title type='plain'>Drawmer MX30 - Product Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='84'/>
+      <yt:uploaded>2011-07-01T05:52:30.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>2YNzg2o0m4M</yt:videoid>
+    </media:group>
+    <gd:rating average='4.5555553' max='5' min='1' numRaters='9' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-06-30</yt:recorded>
+    <yt:statistics favoriteCount='4' viewCount='3260'/>
+    <yt:rating numDislikes='1' numLikes='8'/>
+    <yt:position>18</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKWjNUwRrdgC778Ox8xWrpmU</id>
+    <published>2011-08-11T04:34:20.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rode'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='microphones'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pin'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mic'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='minature'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='system'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='james'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='bond'/>
+    <title>Rode PinMic - Product Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/eLLUD-17jhg?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=eLLUD-17jhg&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/eLLUD-17jhg/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/eLLUD-17jhg/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=eLLUD-17jhg'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/eLLUD-17jhg?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKWjNUwRrdgC778Ox8xWrpmU?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/eLLUD-17jhg/comments?v=2' countHint='4'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne, vic 3205</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/eLLUD-17jhg?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='70' yt:format='5'/>
+      <media:content
+              url='rtsp://v7.cache7.c.youtube.com/CiULENy73wIaHAkYjnvtD9SyeBMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='70' yt:format='1'/>
+      <media:content
+              url='rtsp://v4.cache6.c.youtube.com/CiULENy73wIaHAkYjnvtD9SyeBMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='70' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>Have you had a chance to check our Rode's ripper little PinMic? We were lucky
+        enough to see some prototypes years ago, but the finished product is even better. So much so that we've decided
+        to make one of our promo clips.
+        No - there's no technical information in this clip - it's designed to bring a smile to your face, especially if
+        you're a Bond fan. If you've seen our clips before, you'll know we're a fan of the parody clip.
+        Back to the PinMic: it comes supplied with a case, and all the accessories pictured in the middle of the video.
+        If you want more serious info on the Rode PinMic, head over to http://www.factorysound.com
+      </media:description>
+      <media:keywords>factory, sound, rode, microphones, pin, mic, minature, system, james, bond</media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=eLLUD-17jhg&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/eLLUD-17jhg/default.jpg' height='90' width='120' time='00:00:35'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/eLLUD-17jhg/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/eLLUD-17jhg/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/eLLUD-17jhg/1.jpg' height='90' width='120' time='00:00:17.500'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/eLLUD-17jhg/2.jpg' height='90' width='120' time='00:00:35'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/eLLUD-17jhg/3.jpg' height='90' width='120' time='00:00:52.500'
+                       yt:name='end'/>
+      <media:title type='plain'>Rode PinMic - Product Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='70'/>
+      <yt:uploaded>2011-07-06T06:36:52.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>eLLUD-17jhg</yt:videoid>
+    </media:group>
+    <gd:rating average='3.2857144' max='5' min='1' numRaters='7' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-07-06</yt:recorded>
+    <yt:statistics favoriteCount='0' viewCount='650'/>
+    <yt:rating numDislikes='3' numLikes='4'/>
+    <yt:position>19</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKVZcHma8vZ5xO9KoSXOti3p</id>
+    <published>2011-08-11T04:34:40.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='akg'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='d5'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='stage'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='vocal'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='microphone'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='lead'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='vox'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='bv'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='st'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ali'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='coffee'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='south'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='melbourne'/>
+    <title>AKG D5 - Product Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/EA7wXeZ9aDo?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=EA7wXeZ9aDo&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/EA7wXeZ9aDo/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/EA7wXeZ9aDo/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=EA7wXeZ9aDo'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/EA7wXeZ9aDo?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKVZcHma8vZ5xO9KoSXOti3p?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/EA7wXeZ9aDo/comments?v=2' countHint='2'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne, vic 3205</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/EA7wXeZ9aDo?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='78' yt:format='5'/>
+      <media:content
+              url='rtsp://v4.cache3.c.youtube.com/CiULENy73wIaHAk6aH3mXfAOEBMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='78' yt:format='1'/>
+      <media:content
+              url='rtsp://v7.cache7.c.youtube.com/CiULENy73wIaHAk6aH3mXfAOEBMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='78' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>AKG D5 microphone - it's a ripper for stage vocals (lead vox or BVs), and the
+        model we had for this clip was particularly feisty. We've never had a microphone drag us to the local coffee
+        hangout before, but this D5 had a mind of it's own. Luckily the crew at St Ali were up for a bit of fun during
+        this filming.
+        For more serious information about this great dynamic cardioid stage vocal mic, head to
+        http://www.factorysound.com - not everything we do is nonsense, just the things we label 'product promo clip'
+        Cheers
+      </media:description>
+      <media:keywords>factory, sound, akg, d5, stage, vocal, microphone, lead, vox, bv, st, ali, coffee, south,
+        melbourne
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=EA7wXeZ9aDo&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/EA7wXeZ9aDo/default.jpg' height='90' width='120' time='00:00:39'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/EA7wXeZ9aDo/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/EA7wXeZ9aDo/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/EA7wXeZ9aDo/1.jpg' height='90' width='120' time='00:00:19.500'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/EA7wXeZ9aDo/2.jpg' height='90' width='120' time='00:00:39'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/EA7wXeZ9aDo/3.jpg' height='90' width='120' time='00:00:58.500'
+                       yt:name='end'/>
+      <media:title type='plain'>AKG D5 - Product Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='78'/>
+      <yt:uploaded>2011-07-22T03:44:05.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>EA7wXeZ9aDo</yt:videoid>
+    </media:group>
+    <gd:rating average='5.0' max='5' min='1' numRaters='3' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-07-21</yt:recorded>
+    <yt:statistics favoriteCount='2' viewCount='2454'/>
+    <yt:rating numDislikes='0' numLikes='3'/>
+    <yt:position>20</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKUOtRL-1GE4c2JS0pqXk2B-</id>
+    <published>2011-08-11T04:39:17.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rcf'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='powered'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='speaker'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='art'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='series'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ART310A'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='italy'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='italian'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pa'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='system'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='with'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='fat'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='bottom'/>
+    <title>RCF ART310A - Product Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/DCX3C7r6MDA?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=DCX3C7r6MDA&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/DCX3C7r6MDA/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/DCX3C7r6MDA/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=DCX3C7r6MDA'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/DCX3C7r6MDA?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKUOtRL-1GE4c2JS0pqXk2B-?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/DCX3C7r6MDA/comments?v=2' countHint='3'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne, vic 3205</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/DCX3C7r6MDA?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='105' yt:format='5'/>
+      <media:content
+              url='rtsp://v8.cache4.c.youtube.com/CiULENy73wIaHAkwMPq6C_clDBMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='105' yt:format='1'/>
+      <media:content
+              url='rtsp://v3.cache1.c.youtube.com/CiULENy73wIaHAkwMPq6C_clDBMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='105' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>One of our all-time favourite powered speaker boxes - the mighty RCF ART310A.
+        Don't be fooled by the fact that it's 'just a 10" speaker' - this one punches way above its size and weight
+        division, with a surprising amount of bottom end coming from a very well-designed cabinet.
+        So we started thinking - even though we normally do our 'product promo clips' for new (or fairly new) products,
+        we're busting one out for the old-faithful speaker we love so much. Some of our favourite things are all
+        together in this clip - a parody of a Queen song, Freddie with a false moustache, Hugh makes a return, Neville
+        hams it up, and (of course) the ART310A.
+        For more serious information about Art310A, head on over to http://www.factorysound.com
+      </media:description>
+      <media:keywords>factory, sound, rcf, powered, speaker, art, series, ART310A, italy, italian, pa, system, with,
+        fat, bottom
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=DCX3C7r6MDA&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/DCX3C7r6MDA/default.jpg' height='90' width='120' time='00:00:52.500'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/DCX3C7r6MDA/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/DCX3C7r6MDA/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/DCX3C7r6MDA/1.jpg' height='90' width='120' time='00:00:26.250'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/DCX3C7r6MDA/2.jpg' height='90' width='120' time='00:00:52.500'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/DCX3C7r6MDA/3.jpg' height='90' width='120' time='00:01:18.750'
+                       yt:name='end'/>
+      <media:title type='plain'>RCF ART310A - Product Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='105'/>
+      <yt:uploaded>2011-07-13T23:34:33.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>DCX3C7r6MDA</yt:videoid>
+    </media:group>
+    <gd:rating average='5.0' max='5' min='1' numRaters='13' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-07-13</yt:recorded>
+    <yt:statistics favoriteCount='2' viewCount='3419'/>
+    <yt:rating numDislikes='0' numLikes='13'/>
+    <yt:position>21</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKV6D5BH2jHwyzlJb1MS0xl6</id>
+    <published>2011-08-11T04:39:55.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shure'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='axient'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='wireless'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='system'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='uhf'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='frequency'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='diversity'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='advanced'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='interference'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='detection'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='and'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='avoidance'/>
+    <title>Shure Axient Wireless - Pre Release Demo @ SMPTE 2011</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/utju9KGrt4E?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=utju9KGrt4E&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/utju9KGrt4E/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/utju9KGrt4E/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=utju9KGrt4E'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/utju9KGrt4E?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKV6D5BH2jHwyzlJb1MS0xl6?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/utju9KGrt4E/comments?v=2' countHint='2'/>
+    </gd:comments>
+    <yt:hd/>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/utju9KGrt4E?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='376' yt:format='5'/>
+      <media:content
+              url='rtsp://v6.cache7.c.youtube.com/CiULENy73wIaHAmBt6uh9O7YuhMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='376' yt:format='1'/>
+      <media:content
+              url='rtsp://v4.cache3.c.youtube.com/CiULENy73wIaHAmBt6uh9O7YuhMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='376' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>We took this footage during our recent visit to SMPTE, held in July 2011 at
+        Sydney's Darling Harbour. Shure's Axient Wireless system looks to be very impressive, and full of 'party tricks'
+        - all especially relevant as the big frequency squeeze looms in Australia with the proposed 700 MHz sell-off.
+        Shure has addressed that, and come up with an ingenious system as their new flagship product for high-end
+        applications. Axient provides a huge advance, with frequency diversity, advanced interference detection and
+        avoidance, plus remote control of transmitter. Huh? There's a bit to swallow there, probably easier just to have
+        a squiz at the video!
+        For more information on Shure Axient, stay in touch with us at http://www.factorysound.com - as soon as we get
+        more information (including pricing and delivery dates), we'll keep you up-to-date.
+        Thanks for watching.
+      </media:description>
+      <media:keywords>factory, sound, shure, axient, wireless, system, uhf, frequency, diversity, advanced,
+        interference, detection, and, avoidance
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=utju9KGrt4E&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/utju9KGrt4E/default.jpg' height='90' width='120' time='00:03:08'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/utju9KGrt4E/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/utju9KGrt4E/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/utju9KGrt4E/1.jpg' height='90' width='120' time='00:01:34'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/utju9KGrt4E/2.jpg' height='90' width='120' time='00:03:08'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/utju9KGrt4E/3.jpg' height='90' width='120' time='00:04:42'
+                       yt:name='end'/>
+      <media:title type='plain'>Shure Axient Wireless - Pre Release Demo @ SMPTE 2011</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='376'/>
+      <yt:uploaded>2011-07-28T08:02:49.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>utju9KGrt4E</yt:videoid>
+    </media:group>
+    <gd:rating average='5.0' max='5' min='1' numRaters='2' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:statistics favoriteCount='2' viewCount='728'/>
+    <yt:rating numDislikes='0' numLikes='2'/>
+    <yt:position>22</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKXuU0eih2PFTGK4cLptpfE-</id>
+    <published>2011-08-11T04:39:55.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='qsc'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='active'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='speakers'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kla'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='line'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='array'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='stackable'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='flying'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='k-series'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kw-series'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='house'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='of'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='entech'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='2011'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='interview'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='with'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='steve'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='bray'/>
+    <title>QSC KLA (K-series Line Array) @ ENTECH 2011</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/VrDZz1b45es?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=VrDZz1b45es&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/VrDZz1b45es/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/VrDZz1b45es/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=VrDZz1b45es'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/VrDZz1b45es?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKXuU0eih2PFTGK4cLptpfE-?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/VrDZz1b45es/comments?v=2' countHint='1'/>
+    </gd:comments>
+    <yt:hd/>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/VrDZz1b45es?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='212' yt:format='5'/>
+      <media:content
+              url='rtsp://v1.cache2.c.youtube.com/CiULENy73wIaHAnr5fhWz9mwVhMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='212' yt:format='1'/>
+      <media:content
+              url='rtsp://v5.cache2.c.youtube.com/CiULENy73wIaHAnr5fhWz9mwVhMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='212' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>We came upon the new QSC KLA speaker system whilst visiting ENTEC 2011. This
+        active (powered) line-array is pole mountable, ground stackable, and can also be flown. In this clip we get a
+        brief overview of some of the nice features, including some control on the back panel, talk of the 1000w
+        amplifier, all while imagining various applications.
+        We've been big fans of both the K-Series, and the wooden cabinets of the KW-Series by QSC and so it's naturally
+        exciting for us to see another new release from 'The House of K'
+        To keep up with the latest on any new developments with these boxes, head on over to http://www.factorysound.com
+        Thanks for watching
+      </media:description>
+      <media:keywords>factory, sound, qsc, active, speakers, kla, line, array, stackable, flying, k-series, kw-series,
+        house, of, entech, 2011, interview, with, steve, bray
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=VrDZz1b45es&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/VrDZz1b45es/default.jpg' height='90' width='120' time='00:01:46'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/VrDZz1b45es/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/VrDZz1b45es/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/VrDZz1b45es/1.jpg' height='90' width='120' time='00:00:53'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/VrDZz1b45es/2.jpg' height='90' width='120' time='00:01:46'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/VrDZz1b45es/3.jpg' height='90' width='120' time='00:02:39'
+                       yt:name='end'/>
+      <media:title type='plain'>QSC KLA (K-series Line Array) @ ENTECH 2011</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='212'/>
+      <yt:uploaded>2011-07-28T04:51:49.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>VrDZz1b45es</yt:videoid>
+    </media:group>
+    <gd:rating average='5.0' max='5' min='1' numRaters='1' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:statistics favoriteCount='1' viewCount='1139'/>
+    <yt:rating numDislikes='0' numLikes='1'/>
+    <yt:position>23</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKWz_QGQKGuBGYS3cSz4MK26</id>
+    <published>2011-08-11T04:41:03.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='audio'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='technica'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='drum'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mic'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kit'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mb-dk4'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='paradoy'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='of'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='long'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='way'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='to'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='the'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='top'/>
+    <title>Audio Technica MB-DK4 - Product Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/EAJEPlRWz0g?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=EAJEPlRWz0g&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/EAJEPlRWz0g/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/EAJEPlRWz0g/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=EAJEPlRWz0g'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/EAJEPlRWz0g?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKWz_QGQKGuBGYS3cSz4MK26?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/EAJEPlRWz0g/comments?v=2' countHint='0'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne, vic 3205</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/EAJEPlRWz0g?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='106' yt:format='5'/>
+      <media:content
+              url='rtsp://v6.cache6.c.youtube.com/CiULENy73wIaHAlIz1ZUPkQCEBMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='106' yt:format='1'/>
+      <media:content
+              url='rtsp://v4.cache1.c.youtube.com/CiULENy73wIaHAlIz1ZUPkQCEBMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='106' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>Sometimes everything just works out perfectly. For some reason, the first time we
+        laid eyes on Audio Technica's 'Midnight Blue' Drum Microphone kit (MB-DK4), we knew that we had to take some
+        video footage of a drumkit. Of course, we had no idea that Melbourne would turn out such a brilliant sunny day
+        in the middle of Winter, so we took our shoot outside for some fun!
+        For more serious information on the MB-DK4 (4 piece dynamic drum microphone kit), head on over to
+        http://www.factorysound.com and we'll make sure you get sorted.
+      </media:description>
+      <media:keywords>factory, sound, audio, technica, drum, mic, kit, mb-dk4, paradoy, of, long, way, to, the, top
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=EAJEPlRWz0g&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/EAJEPlRWz0g/default.jpg' height='90' width='120' time='00:00:53'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/EAJEPlRWz0g/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/EAJEPlRWz0g/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/EAJEPlRWz0g/1.jpg' height='90' width='120' time='00:00:26.500'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/EAJEPlRWz0g/2.jpg' height='90' width='120' time='00:00:53'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/EAJEPlRWz0g/3.jpg' height='90' width='120' time='00:01:19.500'
+                       yt:name='end'/>
+      <media:title type='plain'>Audio Technica MB-DK4 - Product Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='106'/>
+      <yt:uploaded>2011-08-04T04:11:49.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>EAJEPlRWz0g</yt:videoid>
+    </media:group>
+    <gd:rating average='5.0' max='5' min='1' numRaters='5' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-08-03</yt:recorded>
+    <yt:statistics favoriteCount='1' viewCount='1188'/>
+    <yt:rating numDislikes='0' numLikes='5'/>
+    <yt:position>24</yt:position>
+  </entry>
+  <entry gd:etag='W/&quot;YDwqeyM.&quot;'>
+    <id>tag:youtube.com,2008:playlist:155D01149BA63C32:PLmP6tzWDxwKUu2TEd18sz8beh4LHHR5j5</id>
+    <published>2011-08-11T04:41:14.000Z</published>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='factory'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sound'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='arturia'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='keyboards'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='musical'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='instruments'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hybrid'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='synth'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='player'/>
+    <category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='laboratory'/>
+    <title>Arturia Hybrid Synth - Product Promo Clip</title>
+    <content type='application/x-shockwave-flash'
+             src='https://www.youtube.com/v/2k9wcpQg_4k?version=3&amp;f=playlists&amp;app=youtube_gdata'/>
+    <link rel='alternate' type='text/html'
+          href='https://www.youtube.com/watch?v=2k9wcpQg_4k&amp;feature=youtube_gdata'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/2k9wcpQg_4k/responses?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/videos/2k9wcpQg_4k/related?v=2'/>
+    <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+          href='https://m.youtube.com/details?v=2k9wcpQg_4k'/>
+    <link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/2k9wcpQg_4k?v=2'/>
+    <link rel='self' type='application/atom+xml'
+          href='https://gdata.youtube.com/feeds/api/playlists/155D01149BA63C32/PLmP6tzWDxwKUu2TEd18sz8beh4LHHR5j5?v=2'/>
+    <author>
+      <name>FactorySound</name>
+      <uri>https://gdata.youtube.com/feeds/api/users/FactorySound</uri>
+      <yt:userId>PtDzl1nx3R5-voZFFe9msQ</yt:userId>
+    </author>
+    <yt:accessControl action='comment' permission='allowed'/>
+    <yt:accessControl action='commentVote' permission='allowed'/>
+    <yt:accessControl action='videoRespond' permission='moderated'/>
+    <yt:accessControl action='rate' permission='allowed'/>
+    <yt:accessControl action='embed' permission='allowed'/>
+    <yt:accessControl action='list' permission='allowed'/>
+    <yt:accessControl action='autoPlay' permission='allowed'/>
+    <yt:accessControl action='syndicate' permission='allowed'/>
+    <gd:comments>
+      <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                   href='https://gdata.youtube.com/feeds/api/videos/2k9wcpQg_4k/comments?v=2' countHint='2'/>
+    </gd:comments>
+    <yt:hd/>
+    <yt:location>75-85 york street, south melbourne, vic 3205</yt:location>
+    <media:group>
+      <media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People
+      </media:category>
+      <media:content url='https://www.youtube.com/v/2k9wcpQg_4k?version=3&amp;f=playlists&amp;app=youtube_gdata'
+                     type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                     duration='69' yt:format='5'/>
+      <media:content
+              url='rtsp://v8.cache5.c.youtube.com/CiULENy73wIaHAmJ_yCUcnBP2hMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='69' yt:format='1'/>
+      <media:content
+              url='rtsp://v8.cache5.c.youtube.com/CiULENy73wIaHAmJ_yCUcnBP2hMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp'
+              type='video/3gpp' medium='video' expression='full' duration='69' yt:format='6'/>
+      <media:credit role='uploader' scheme='urn:youtube' yt:display='FactorySound'>factorysound</media:credit>
+      <media:description type='plain'>Arturia - born in Grenoble, France has been banging out inspirational intruments
+        since 1999, and we're particularly impressed with not only the rich quality of their software sounds, but the
+        built-tough (yet tender to touch) hardware construction.
+        Arturia's Hybrid series of hardware keyboards &amp; synth sounds was the inspiration for this little product
+        promo clip...along with a few beers and a viewing of Team America.
+        If you'd like a little more intelligent information on Arturia's Hybrid Series - The Player, The Factory and The
+        Laboratory, head on over to http://www.factorysound.com
+      </media:description>
+      <media:keywords>factory, sound, arturia, keyboards, musical, instruments, hybrid, synth, player, laboratory
+      </media:keywords>
+      <media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+      <media:player url='https://www.youtube.com/watch?v=2k9wcpQg_4k&amp;feature=youtube_gdata_player'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/2k9wcpQg_4k/default.jpg' height='90' width='120' time='00:00:34.500'
+                       yt:name='default'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/2k9wcpQg_4k/mqdefault.jpg' height='180' width='320'
+                       yt:name='mqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/2k9wcpQg_4k/hqdefault.jpg' height='360' width='480'
+                       yt:name='hqdefault'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/2k9wcpQg_4k/1.jpg' height='90' width='120' time='00:00:17.250'
+                       yt:name='start'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/2k9wcpQg_4k/2.jpg' height='90' width='120' time='00:00:34.500'
+                       yt:name='middle'/>
+      <media:thumbnail url='http://i.ytimg.com/vi/2k9wcpQg_4k/3.jpg' height='90' width='120' time='00:00:51.750'
+                       yt:name='end'/>
+      <media:title type='plain'>Arturia Hybrid Synth - Product Promo Clip</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds='69'/>
+      <yt:uploaded>2011-08-11T03:30:55.000Z</yt:uploaded>
+      <yt:uploaderId>PtDzl1nx3R5-voZFFe9msQ</yt:uploaderId>
+      <yt:videoid>2k9wcpQg_4k</yt:videoid>
+    </media:group>
+    <gd:rating average='5.0' max='5' min='1' numRaters='4' rel='http://schemas.google.com/g/2005#overall'/>
+    <yt:recorded>2011-08-10</yt:recorded>
+    <yt:statistics favoriteCount='1' viewCount='544'/>
+    <yt:rating numDislikes='0' numLikes='4'/>
+    <yt:position>25</yt:position>
+  </entry>
+</feed>

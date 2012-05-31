@@ -1,0 +1,29 @@
+nb:
+  refinery:
+    plugins:
+      youtube_playlists:
+        title: Youtube Playlists
+    youtube_playlists:
+      admin:
+        youtube_playlists:
+          actions:
+            create_new: Lag en ny Youtube Playlist
+            reorder: Endre rekkefølgen på Youtube Playlists
+            reorder_done: Ferdig å endre rekkefølgen Youtube Playlists
+          records:
+            title: Youtube Playlists
+            sorry_no_results: Beklager! Vi fant ikke noen resultater.
+            no_items_yet: Det er ingen Youtube Playlists enda. Klikk på "Lag en ny Youtube Playlist" for å legge til din første youtube playlist.
+          youtube_playlist:
+            view_live_html: Vis hvordan denne youtube playlist ser ut offentlig <br/><em>(åpner i et nytt vindu)</em>
+            edit: Rediger denne youtube playlist
+            delete: Fjern denne youtube playlist permanent
+      youtube_playlists:
+        show:
+          other: Andre Youtube Playlists
+  activerecord:
+    attributes:
+      'refinery/youtube_playlists/youtube_playlist':
+        title: Title
+        playlist_code: Playlist Code
+        description: Description
