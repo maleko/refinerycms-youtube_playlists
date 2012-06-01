@@ -3,7 +3,8 @@
 Gem::Specification.new do |s|
   s.platform          = Gem::Platform::RUBY
   s.name              = 'refinerycms-youtube_playlists'
-  s.version           = '1.0'
+  s.author            = 'Marc Lee'
+  s.version           = '0.9b'
   s.description       = 'Ruby on Rails Youtube Playlists extension for Refinery CMS'
   s.date              = '2012-05-24'
   s.summary           = 'Youtube Playlists extension for Refinery CMS'
