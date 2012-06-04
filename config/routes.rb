@@ -2,6 +2,7 @@ Refinery::Core::Engine.routes.append do
 
   # Frontend routes
   namespace :youtube_playlists do
+    root :to => "youtube_playlists#index"
     resources :youtube_playlists, :path => '', :only => [:index, :show]
   end
 
